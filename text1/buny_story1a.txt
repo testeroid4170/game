@@ -1,0 +1,83 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+もしかして、あなたは勇者様ですか！？
+これは心強いです。私、このカジノの責任者を
+しているカミラと申します。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よろしくお願いします。
+僕達、サキュバスについて調べているんですけど、
+何か心当たりってありますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+サキュバスについて心当たり…ですか？…
+これは確証はないのですが、実はこのカジノの運営の
+上層部にサキュバスがいるのではないかと言われています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+カジノの運営に？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+はい。実はこのカジノの運営は最近、闇金などの高額な
+利子をつけた違法商売も始めたと聞きます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+数年前からこのカジノの運営方針が変わって、
+暴力でお金を巻き上げたり、違法な商売も
+沢山始めたと聞きました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+その原因がサキュバスなんじゃないかと
+言われています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+どっ…どういうことですか…詳しく聞かせてください
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+はい。実は数年前にカジノの事務所が荒らされる事件
+が起きたんです。その事件をきっかけに、カジノの運営方針は
+ガラッと変わって、違法なものへと変化していきました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…そんなことがあったんですね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+はい。私は、サキュバスがカジノの運営をのっとり、
+財源としてカジノを利用しているんじゃないかと
+思っているんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…確かにそれはありそうですね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…そのカジノの事務所へはどうやったら行けますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+事務所ですか…事務所はこのカジノに対して西側にあるビルがそうです。
+ですが、あの事務所は今はもうかなり危険な状態ですので、
+行くのはやめた方がいいかもしれません…
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+また、私は責任者として、このカジノを任されているだけですので、
+カジノの運営費を賄っている運営には逆らえないのです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうですか…わかりました…ですがサキュバスがいる可能性があるのなら、
+行かない訳にはいきません。それに、そんな違法な商売をして、
+人々を困らせている連中をこれ以上野放しにはできないですよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+なるほど…さすがは勇者様ですね…勇者様たちなら、
+この街を救ってくださるような気がしてきました…
+それではこの事務所のカギをお使いください
+
+<WindowPosition: Bottom><Background: Transparent>
+事務所のカギを手に入れた！
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+勇者様たちのご健闘をお祈りします…
+
+<CE: 1>

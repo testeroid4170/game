@@ -1,0 +1,43 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: 003_sleep, 25, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ハーレムパーティー...すごかったな...
+今日は精液出しすぎて疲れたから、もう寝よう...
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 05_buny, 25, 100, 0>
+
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent>
+次の日…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(はぁ…昨日のパーティーは最高に楽しかったなぁ…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んー！体力全回復！
+昨日のハーレムパーティーのおかげですっかり元気になったよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+昨日のパーティー最高だったよね～♡
+もも、すっかり元気になったよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん！魔力がみなぎってくるね！
+もしかして前よりパワーアップしたかも？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+みんな楽しめたようで良かった。
+誘拐された子達も無事家に返せたし、一件落着だね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あとは…僕たちが帰るための帰還の魔法陣を探すだけだね…
+それじゃあカミラさんに有益な情報がないか聞きに行こうか。
+
+<CE: 3>

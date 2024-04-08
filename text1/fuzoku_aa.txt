@@ -1,0 +1,26 @@
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ようこそ。いらっしゃいませ。
+勇者様たちの噂はこの街までしっかりと伝わっていますよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうなんですか。それは都合がいいです。
+この街で怪しい人や、不可解な事件などはありましたか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+そうですね…この街自体、あまり治安のよい街ではありませんので、
+何かの揉め事などは日常的に起こっていますね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…そうなんですね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はい。この街に訪れる方はレズの方が多いのですが、
+男性の勇者様もこの街の風俗店をご利用できます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+魔族については、この街を堪能しながらゆっくり
+探して頂ければなと思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…そうなんですね。情報ありがとうございました！
+それじゃあ、魔族はこの街を楽しみながら探そうかな…

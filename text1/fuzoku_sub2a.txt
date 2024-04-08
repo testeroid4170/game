@@ -1,0 +1,425 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<CE: 3>
+
+<ShowPicture: 1, t_sub6a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ご指名ありがとうございます♡勇者様♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+今日は私とい～っぱい楽しみましょうね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+それじゃあまずは勇者様の服をお脱がせ致しますね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ふふふっ♡勇者様はお体もすごくきれいなんですね♡
+すごく興奮します♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+私のおまんこも、もうヌルヌルになってしまいました♡
+それでは早速エッチしましょうか♡
+
+<ShowPicture: 1, sb_f3.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あんっ…ひゃあぁんっ！ひゃあんっ！
+ああああぁんっ！ひゃあん…ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…おちんぽっ！…あぁんっ！…このおちんぽ…凄すぎ…
+ひゃあんっ！…あんっ！…あの！…あんっ！…きたぁ…おちんぽ…きたぁ…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んああぁんっ！ああああぁん!あっ♡
+いやぁんっ！…ひゃあぁんっ！ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んおおおんっ！あっ…あっ…あっ…あんっ！あんっ！
+ひゃあん…あぁんっ…ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あっ...ああぁんっ♡んっ...
+あんっ！あんっ！んおおおんっ！あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+そこ…すごくいい…
+奥まで…あんっ！…ちんぽ届いてるよ
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ひゃあぁんっ♡あんっ♡いやあぁんっ♡
+んっ…あぁんっ！いやああぁんっ！うっ…うっ…うっ…
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んおおおんっ！んあっ！…いやああぁんっ！
+ひゃあん…んっ...んっ...んっ...ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+そこ好き！…もっとついてぇ！
+…もっと無理矢理犯してー！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+もっとぉ♡感じるぅ♡うっ...うっ...うっ...
+んあっ！…んっ…あぁんっ！あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…クリトリスも…あんっ！…触って…
+ちんぽ…あんっ！…大好き…
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あんっ♡あぁんっ！ひゃあん…
+んっ...んっ...んっ...ああああぁんっ！んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+そこ…気持ちよすぎ…
+おまんこ…もっとついてー！
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んっ…んっ…いやぁんっ！…あぁんっ！
+んああぁんっ！んっ...んっ...んっ...ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+いやあぁんっ♡んっ...あんっ♡
+あぁんっ！ああぁんっ！ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+いやぁんっ！あんっ！ああぁんっ♡
+あっ…あっ…あっ…あああぁんっ！…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ああぁん…ひゃあぁん...んああぁんっ！
+ああぁんっ！ああああぁんっ！ひゃあぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んおおおんっ！あっ…あっ…あっ…ひゃああぁんっ！…
+ひゃあん…ひゃあぁんっ！ひゃあぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んああぁん...ひゃあんっ♡ああああぁんっ！
+んああぁんっ！…ひゃんっ！あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んっ...んっ...んっ...んっ...んっ...あぁんっ！
+ああぁんっ♡ひゃあぁんっ♡あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あああぁんっ！…うっ…うっ…うっ…あっ…あっ…あっ…
+らめぇ♡ああぁん…ひゃあんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ひゃあん…うっ...うっ...うっ...らめぇ♡
+あぁんっ！んああぁん...んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…もっと無理矢理犯してー！
+気持ちいい…あんっ…これ…最高…
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+イクっ！私イッちゃう！
+イッちゃう…あぁんっ!
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+いやぁんっ！ひゃあぁんっ♡いやあぁんっ♡
+んっ…あぁんっ！あっ…あっ…あっ…んあっ！…
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…イクっ！イクっ！イくぅっ！…あああぁんっ！
+…イクっ！イクっ！イクっ！ああああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+おっ…おっ…
+はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+おまんこから精液溢れ出てる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…はぁ…
+
+<ShowPicture: 1, sb_f4.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ああああぁん...あぁんっ…ひゃあんっ！
+あんっ…あぁんっ…もっとぉ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…あんっ！あんっ！…入って…きた...
+…はいっちゃった…おまんこに大きなポコちん…入ってきたぁ…
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んっ...んっ...んああぁんっ！ひゃあぁん...
+ああぁんっ♡ひゃあぁんっ♡ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あぁんっ！んっ…んっ…んああぁんっ！…
+んっ...んっ...あんっ！ああぁん…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あっ♡あんっ…ああぁんっ！
+ひゃあぁんっ！んっ…あぁんっ！あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…もっと欲しいの！
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…もっと無理矢理犯してー！
+おまんこ…もっとついてー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ああぁん…あぁんっ！あんっ…
+ひゃんっ！あぁんっ！ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ああぁんっ♡ひゃあぁんっ♡んっ...
+んああぁん...ひゃあん…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…もっと欲しいの！
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んおおおんっ！んっ…あぁんっ！ひゃああぁんっ！…
+んっ...んっ...んっ...あんっ！ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+もっとして！…それ好きなのぉ！
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+うっ…うっ…うっ…んっ…んっ…んっ…あぁんっ！
+ああぁんっ♡いやあぁんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+奥まで…あんっ！…ちんぽ届いてるよ
+ちんぽ…あんっ！…大好き…
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んああぁんっ！…いやぁんっ！…あっ…あっ…あっ…
+んああぁんっ！あぁん♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あんっ♡いやあぁんっ♡んっ...
+あんっ！ひゃあぁん...あんっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んああぁん...あっ♡ひゃあぁんっ！
+あんっ♡あっ...ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ああああぁんっ！あんっ…うっ...うっ...うっ...
+ああぁん…もっとぉ♡ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…ヤバい…ちんぽ…すごい…
+…ヤバい…ちんぽ…すごい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んあっ！…んっ…んっ…んおおおんっ！
+ああぁん…あんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ひゃんっ！ひゃあぁんっ♡あんっ♡
+らめぇ♡んああぁんっ！んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ひゃあんっ！んああぁんっ！感じるぅ♡
+あんっ！あっ...ひゃあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んおおおんっ！んああぁんっ！…あぁんっ！
+らめぇ♡うっ...うっ...うっ...ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+あっ...んっ...ああぁんっ♡
+んああぁんっ！ひゃあん…ああああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+おまんこ…もっとついてー！
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+もうだめ……イっちゃいそう…
+もうだめ……イっちゃいそう…
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+ああぁん…ああああぁん...あんっ！
+うっ...うっ...うっ...感じるぅ♡ひゃあん…
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+…イクっ！イクっ！イクっ！あんっ！あんっ！…いくぅっ！…ああああああぁんっ！
+…イクっ！イクっ！イくぅっ！…ひゃあぁんっ！
+
+<StopSE>
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+すごい勢いで種付けされちゃった…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+んんんっ…ん…
+んんんっ…ん…
+
+<ShowPicture: 1, t_sub6a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+どうでしたか？今日は楽しんで頂けましたか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 風俗嬢>
+私はすごく楽しかったですよ♡勇者様♡
+また気が向いたら私と遊んでくださいね♡
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 07_fuzoku, 25, 100, 0>

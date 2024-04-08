@@ -1,0 +1,48 @@
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<CE: 3>
+
+<WindowPosition: Bottom><Background: Transparent>
+翌朝…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ふぅ！よく寝た！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+おはよう！オタくん！昨日はすごかったね！
+ねー！もも、あんな複数人でエッチしたの初めてだから、
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+すごく興奮した♡あと、
+オタくんがすごくエッチで最高だったよ？
+チュッ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+確かに昨日ははしゃぎすぎで超楽しかったよね！
+今度から、魔族を倒したらあんな風にみんなで
+セックスパーティーしない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ！それいいかもぉ～♡
+オタくんにみんな気持ちよくしてもらおっか！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ははは。体力がもつかな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(それよりも、今回も魔族から手がかりを
+掴めなかったのか…魔族を倒して喜んで
+ばかりもいられないな…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+早速だけど、これからナース長の所に行って次の手がかりを
+聞いてこない？こうしているうちに誘拐された女の子が
+傷ついているかもしれないし…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっ…そうだよね…今回の魔族からも情報は得られなかったからね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+じゃあ早速行こうか
+
+<CE: 1>

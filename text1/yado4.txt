@@ -1,0 +1,604 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, yodo4, Scale[100][100]>
+
+<CE: 3>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ふふっ♡誰と初めにエッチする？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ももはいつでも準備ＯＫだよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+私もいつでも大丈夫だよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: >
+誰とエッチしますか？
+
+<ShowChoices>
+<When: りりか>
+<ShowPicture: 1, yado3_1a, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: ririka_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んああぁん...ああああぁん...あぁんっ！
+うっ...うっ...うっ...んっ...んっ...あぁんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+…入って…きたぁ………あんっ！
+…おちんぽっ！…あぁんっ！…このおちんぽ…凄すぎ…
+
+<StopSE>
+
+<PlaySE: ririka_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ...んっ...ああああぁんっ！んっ♡んっ♡
+いやああぁんっ！んおおおんっ！うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ひゃああぁんっ！…んっ…んっ…んあっ！…
+ひゃあんっ！ああぁん…んっ...んっ...
+
+<StopSE>
+
+<PlaySE: ririka_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ひゃんっ！あんっ！あっ...
+あんっ！あんっ！んおおおんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+ガンガン突かれるの好き…
+
+<StopSE>
+
+<PlaySE: ririka_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+…もっと欲しいの！
+…奥まで入ってる……
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ひゃんっ！あっ...あんっ♡
+いやああぁんっ！うっ…うっ…うっ…いやぁんっ！…
+
+<StopSE>
+
+<PlaySE: ririka_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んああぁんっ！…あんっ！あんっ！あああぁんっ！…
+ああぁん…あんっ！ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+そこ好き！…もっとついてぇ！
+
+<StopSE>
+
+<PlaySE: ririka_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あぁんっ！んっ♡んっ♡もっとぉ♡
+んっ…あぁんっ！あああぁんっ！…いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そんなにされたらっ…あぁんっ！…おかしくなっちゃう
+…奥まで入ってる……
+
+<StopSE>
+
+<PlaySE: ririka_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ♡んっ♡んっ♡んっ...んっ...
+ああああぁん...ああぁん…んっ...んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+…そんなに…されたら…あん
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: ririka_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ…んっ…ひゃんっ！んおおおんっ！
+うっ...うっ...うっ...ああぁんっ！ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ...いやぁんっ！ひゃんっ！
+んああぁんっ！あんっ…うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: ririka_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ...ああぁんっ♡いやあぁんっ♡
+いやぁんっ！…んっ…んっ…いやああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うっ...うっ...うっ...んっ...んっ...んっ...ひゃあんっ！
+ああぁんっ♡あぁんっ！ひゃあんっ♡
+
+<StopSE>
+
+<PlaySE: ririka_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+…そんなに…されたら…あん
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ…あぁんっ！ひゃああぁんっ！…んっ…んっ…
+あぁんっ…んああぁん...ああぁんっ！
+
+<StopSE>
+
+<PlaySE: ririka_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+らめぇ♡ひゃんっ♡あんっ！
+あああぁんっ！…ひゃああぁんっ！…うっ…うっ…うっ…
+
+<StopSE>
+
+<PlaySE: ririka_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あんっ…うっ...うっ...うっ...あぁん♡
+あんっ♡ああぁんっ♡んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いやああぁんっ！あんっ！あんっ！んおおおんっ！
+あんっ…ああぁんっ！ああぁん…
+
+<StopSE>
+
+<PlaySE: ririka_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あぁんっ…ああぁん…んああぁん...
+ああぁんっ！あんっ！あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+感じるっ…そこ感じるっ！
+激しいっ…あんっ！…気持ちよすぎて…おかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: ririka_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+イクッ！イクッ！イっちゃう！
+いっ…イッちゃう…らめぇ…
+
+<StopSE>
+
+<PlaySE: ririka_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いやぁんっ！ひゃんっ！あっ...
+んああぁんっ！…んおおおんっ！いやああぁんっ！
+
+<StopSE>
+
+<PlaySE: ririka_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+…イクっ！イクっ！イクっ！あんっ！あんっ！…いくぅっ！…ああああああぁんっ！
+…イクっ！イクっ！イくぅっ！…あああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+はぁ…はぁ…
+んんんっ…ん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+まだイった快感が残ってる…はぁ…すごい気持ちよかったなぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んんんっ…ん…
+んんんっ…ん…
+
+<When: もも>
+<ShowPicture: 1, yado3_2a, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: momo_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あんっ…ああああぁん...あんっ！
+ひゃあん…あんっ♡ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…きた…ちんぽ……あんっ！…おまんこに入ってきたぁ…
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: momo_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んっ♡んっ♡あんっ…ひゃあぁんっ！
+ひゃあぁんっ！あっ…あっ…あっ…ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いやああぁんっ！あああぁんっ！…あぁんっ！
+ああぁんっ！ああああぁんっ！うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: momo_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いやあぁんっ♡いやぁんっ！あっ...
+あぁんっ！ひゃあぁんっ！んおおおんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…もっと無理矢理犯してー！
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+奥まで…あんっ！…ちんぽ届いてるよ
+そんなにされたらっ…あぁんっ！…おかしくなっちゃう
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ...いやあぁんっ♡んっ...
+あああぁんっ！…んっ…あぁんっ！ひゃああぁんっ！…
+
+<StopSE>
+
+<PlaySE: momo_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あああぁんっ！…んああぁんっ！…んっ…んっ…
+ひゃあぁん...あんっ…うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+あぁんっ！…激しいの…好き…
+
+<StopSE>
+
+<PlaySE: momo_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあぁんっ！あんっ♡ああぁんっ！
+んっ…んっ…あんっ！あんっ！あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+このおちんぽ…やばすぎ…気持ちいい…
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あぁんっ！んっ...んっ...んっ...うっ...うっ...うっ...
+ひゃあぁん...ひゃあん…あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+そこ…気持ちよすぎ…
+気持ちいい…あんっ…これ…最高…
+
+<StopSE>
+
+<PlaySE: momo_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んおおおんっ！んっ…んっ…あっ…あっ…あっ…
+あぁんっ！んっ...んっ...んっ...ひゃあんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ...ひゃあぁんっ♡ああぁんっ♡
+んああぁん...ああぁんっ！ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあぁんっ♡ひゃんっ！あんっ♡
+んああぁんっ！…ひゃああぁんっ！…あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んああぁんっ！ひゃあん…ああああぁん...
+ひゃんっ♡ああああぁん!ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+おまんこ…もっとついてー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあぁんっ！うっ…うっ…うっ…いやああぁんっ！
+ひゃあぁん...ひゃあん…ああぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃんっ♡あんっ！んああぁんっ！
+んおおおんっ！んっ…あぁんっ！あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ♡ひゃあんっ！いやぁんっ♡
+ひゃあぁんっ♡いやぁんっ！いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んあっ！…あああぁんっ！…あっ…あっ…あっ…
+あぁんっ！あんっ！ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+もっとぉ♡あんっ…んっ...んっ...んっ...
+んああぁん...んっ...んっ...んっ...ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+気持ちいい…あんっ…これ…最高…
+激しいっ…あんっ！…気持ちよすぎて…おかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: momo_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+イクっ！私イッちゃう！
+いっ…イッちゃう…らめぇ…
+
+<StopSE>
+
+<PlaySE: momo_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ...ひゃあぁんっ♡ひゃんっ！
+んおおおんっ！いやぁんっ！…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: momo_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+イっちゃう！イっちゃう！種付けしてぇー！ひゃああぁんっ！
+…イクっ！イクっ！…いくぅっ！…ひゃああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+はぁ…はぁ…はぁ…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+おまんこから白濁液溢れ出てる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+はぁ…はぁ…
+んんんっ…ん…
+
+<When: あおい>
+<ShowPicture: 1, yado3_3a, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: aoi_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あんっ…ひゃあんっ！んああぁんっ！
+感じるぅ♡あぁんっ…ひゃあんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…きた…ちんぽ……あんっ！…おまんこに入ってきたぁ…
+…きた…ちんぽ……あんっ！…おまんこに入ってきたぁ…
+
+<StopSE>
+
+<PlaySE: aoi_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ああああぁんっ！ああぁんっ！あんっ…
+あっ...あんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃあぁんっ！いやああぁんっ！あああぁんっ！…
+あんっ…んっ...んっ...んっ...ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: aoi_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あぁんっ！んっ♡んっ♡あんっ！
+いやぁんっ！…んっ…んっ…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そこ…すごくいい…
+ちんぽ…もっと欲しいの…
+
+<StopSE>
+
+<PlaySE: aoi_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+もっとして！…それ好きなのぉ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃあぁんっ！あぁんっ…ひゃあぁん...
+んあっ！…あああぁんっ！…いやぁんっ！…
+
+<StopSE>
+
+<PlaySE: aoi_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あっ...あんっ！あんっ♡
+あんっ…ひゃあんっ♡いやぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+このおちんぽ…あんっ！…どんどん良くなってく…
+
+<StopSE>
+
+<PlaySE: aoi_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んああぁんっ！…ひゃああぁんっ！…あんっ！あんっ！
+あぁんっ…んっ...んっ...ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そこ好き！…もっとついてぇ！
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: aoi_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あぁんっ！いやああぁんっ！んあっ！…
+ひゃあぁんっ♡いやぁんっ！あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+そこ……そこが気持ちいいの！
+
+<StopSE>
+
+<PlaySE: aoi_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あぁんっ！いやぁんっ！…あっ…あっ…あっ…
+もっとぉ♡ああああぁんっ！あぁんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いやぁんっ！あんっ！んっ...
+んっ♡んっ♡あぁん♡らめぇ♡
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んっ...んっ...あぁんっ…あんっ♡
+いやあぁんっ♡いやぁんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あぁんっ！んっ...んっ...んっ...あんっ！
+もっとぉ♡あんっ！んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: aoi_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ちんぽ…もっと欲しいの…
+奥まで…あんっ！…ちんぽ届いてるよ
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いやああぁんっ！あああぁんっ！…ひゃんっ！
+ひゃあんっ！ああぁんっ！んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あんっ♡あっ...いやぁんっ！
+あぁんっ…んっ♡んっ♡ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んああぁん...ひゃあん…もっとぉ♡
+ひゃあぁんっ♡いやぁんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んあっ！…んっ…んっ…いやぁんっ！…
+ひゃあんっ！あんっ！ああああぁん!
+
+<StopSE>
+
+<PlaySE: aoi_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いやぁんっ！いやあぁんっ♡ひゃんっ！
+ああぁんっ！んっ...んっ...あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+もっと…激しくしてぇ…
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+
+<StopSE>
+
+<PlaySE: aoi_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いっ…イッちゃう…らめぇ…
+いっ…イッちゃう…らめぇ…
+
+<StopSE>
+
+<PlaySE: aoi_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃあぁん...ああぁん…んああぁんっ！
+あぁん♡感じるぅ♡んああぁん...
+
+<StopSE>
+
+<PlaySE: aoi_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…イクっ！イクっ！…いくぅっ！…あぁんっ！
+イっちゃう！イっちゃう！種付けしてぇー！ひゃああぁんっ！
+
+<StopSE>
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んんんっ…ん…
+はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+すごい…アツアツの精液たっぷり中出しされちゃった…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…
+
+<When: やめる>

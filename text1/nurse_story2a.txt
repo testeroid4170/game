@@ -1,0 +1,71 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+なるほど…これがサキュバスですか…
+ナースに変身していたとは…全く気づきませんでした…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+さすがは勇者様ですね…
+この度は本当にありがとうございました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+いえいえ。当然のことをしたまでです。あと、この街には
+もうサキュバスはいないようですので、安心して下さい。
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+そうですか。それは安心です。
+それよりもサキュバスとの戦いでとても消耗されたのでは
+ないでしょうか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+ぜひうちの医療技術を総動員させて、
+あなた方をおもてなしさせてください！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！そんな…いいんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+はい。この街を救っていただいたお礼です。
+このくらいは当然です。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+やったぁ！おもてなしだってよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あの…ナース長さん。それなんですが、魔力の回復には
+オタくんに直接精液を注いで貰う必要があるんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ですので、ここの医療よりオタくんとエッチを
+させて頂きたいのですが…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+はい。心得ております。ですので、御三方の魔力の補給
+は勇者様に行っていただくのですが、勇者様のケアを
+うちなりにやらせて頂きます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+なんでも、勇者様は沢山の美女に囲まれるのがお好きと
+聞きましたので、うちの最高級美女達を集めて勇者様を
+興奮させて差し上げたいと思っています。
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？最高級美女を！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+はい。勇者様は複数の美女に囲まれながら性行為をするのが
+お好きだと伺っております。ですので、
+今からハーレムセックスパーティーを開こうと思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ハーレムセックスパーティー！？
+なんだかすごい...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+ではみんな、入ってきて！
+
+<CE: 1>

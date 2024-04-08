@@ -1,0 +1,50 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+昨日はこの街を救って頂き、大変ありがとうございました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+こちらこそ、パーティーを開いて頂き大変ありがとうございました。
+最高に楽しかったです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そういえば、カミラさんにお聞きしたいことがあるのですが、
+よろしいでしょうか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+はい。なんでも聞いてください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+帰還の魔法陣について知っていることはありますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+帰還の魔法陣ですか？…なるほど…
+私は詳しく知らないのですが、サキュバスなら
+知っているかもしれませんね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど、そうですか。
+それでは、他にサキュバスが居そうな場所ってわかりますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+う～ん…そうですね…ここから東に行った場所に、
+プラークという街があります。
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+そこはレズ用の風俗街なのですが、
+ここと同じく治安があまり良くないため、
+サキュバスが潜んでいるかもしれません。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど。有益な情報ありがとうございます！
+それでは僕たちは、これからプラークに向かおうと思います。
+この度はお世話になりました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+もう行ってしまわれるのですね。
+こちらこそ街を救って頂き大変感謝しています。
+お気をつけて行ってらっしゃいませ！
+
+<CE: 1>

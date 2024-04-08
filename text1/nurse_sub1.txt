@@ -1,0 +1,352 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub7b, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+勇者様。この街で旅の疲れをいやしていって下さいね♡
+
+<ShowPicture: 2, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ！オタくん！本物のナースさんだよ！
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+本当だ！異世界のナースさんもすごくかわいいね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+どうですか？勇者様♡
+勇者様にだけ特別な治療コースがあるのですが
+いかがですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+それでは勇者様には特別コースで癒させて頂きますね♡
+それでは服をお脱ぎくださいね♡
+
+<CE: 1>
+
+<CE: 3>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, sb_n1.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+勇者様のおちんぽ…はやく私の爆乳で挟ませてください♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…むにゅう……むにゅむにゅ♡…ずりずり…
+んっ！んっ！ひゃあんっ♡いやぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+いやぁんっ！あんっ...あんっ...ひゃあぁんっ...
+…にゅぽにゅぽ！…にゅぽにゅぽ♡…ごしごし♡ごしごし♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…むにゅう！…むにゅむにゅ！…ずりずり！ずりずり！
+いやぁんっ♡いやぁんっ！んんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+もっともっと気持ちよくなってくださいね
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んっ！んっ！あんっ♡あんっ♡ひゃああぁんっ！
+…ずりずり♡…にちゃにちゃ……にちゃにちゃ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+勇者様のおちんぽ、幸せそうでよかったです。
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…ぐり！ぐり！ぐり！…むにゅむにゅ♡…にちゃにちゃ！
+ひゃあんっ♡あんっ...あんっ...んんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+おちんぽがおっぱいに囲まれて気持ちいいですか？
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ひゃあぁんっ！ひゃあんっ...んっ！んっ！
+…ごしごし……むにゅう……ごしごし♡ごしごし♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+勇者様のためにいっぱいサービスしちゃいますね…
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…にゅぽにゅぽ♡…ずりずり……にゅぽにゅぽ！
+んっ！んっ！んんっ♡ひゃあんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+勇者様ったら、すごく幸せそうですね…
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ひゃあぁんっ！んっ…んっ…あんっ！あんっ！
+…ぐり♡ぐり♡…にゅぽにゅぽ！…にゅぽにゅぽ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…むにゅう♡むにゅう♡…ごしごし！…ごしごし…
+んっ！んっ！ひゃあぁんっ...んんっ...
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…にゅぽにゅぽ……むにゅう！…ずりずり♡
+んんっ♡んんっ！ひゃああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んんっ♡ひゃあんっ♡ひゃあぁんっ！
+…むにゅう……にゅぽにゅぽ！…にゅぽにゅぽ♡
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+もぉう…勇者様はおっぱいが大好きなんですね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…ごしごし♡ごしごし♡…ごしごし……むにゅむにゅ！
+いやぁんっ♡いやぁんっ...ひゃああぁんっ！
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…にゅぽにゅぽ♡…ずりずり……ずりずり！ずりずり！
+いやぁんっ...あんっ♡あんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んっ♡んっ♡ひゃあぁんっ♡んんっ♡
+…ぐり♡ぐり♡…ぐり！ぐり！ぐり！…ずりずり！ずりずり！
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+出るっ！出るっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+勇者様の精液...すごくエッチですね♡
+
+<ShowPicture: 1, sb_n2.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ひゃあん…あぁんっ…あんっ…
+ひゃあん…いやぁんっ♡ひゃあんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…あんっ！あんっ！…入って…きた...
+ひゃあんっ！…あんっ！…あの！…あんっ！…きたぁ…おちんぽ…きたぁ…
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ひゃあん…ひゃんっ♡んっ♡んっ♡
+あああぁんっ！…いやぁんっ！…うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んあっ！…ひゃあぁんっ！あぁんっ！
+んああぁんっ！ひゃあん…ああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ああぁんっ♡あんっ♡あっ...
+んおおおんっ！いやぁんっ！…ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+気持ちいい…あんっ…これ…最高…
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+…ヤバい…ちんぽ…すごい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+いやあぁんっ♡ひゃんっ！ああぁんっ♡
+いやああぁんっ！ひゃんっ！ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んっ…あぁんっ！あんっ！あんっ！いやぁんっ！…
+ああぁん…うっ...うっ...うっ...んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…もっと無理矢理犯してー！
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んああぁんっ！あぁん♡ひゃあんっ！
+んおおおんっ！んああぁんっ！…あんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…もっと欲しいの！
+…奥まで入ってる……
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ああぁんっ♡んああぁんっ！いやぁんっ♡
+ひゃあんっ！あんっ…ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+そこ好き！…もっとついてぇ！
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+いやああぁんっ！あああぁんっ！…ひゃんっ！
+あぁんっ…んああぁん...ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ああぁんっ♡ひゃあぁんっ♡んっ...
+んああぁん...うっ...うっ...うっ...ああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+あっ...いやあぁんっ♡いやぁんっ！
+ひゃんっ！んあっ！…んああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んああぁん...ひゃあぁん...あぁんっ！
+あんっ…んっ...んっ...感じるぅ♡
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+あぁんっ！…激しいの…好き…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+んっ…んっ…んあっ！…ひゃんっ！
+ああああぁんっ！んっ...んっ...んっ...ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+あぁんっ！感じるぅ♡ひゃあぁんっ！
+いやああぁんっ！あっ…あっ…あっ…いやぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ひゃんっ♡んっ...んっ...いやぁんっ♡
+あっ...ああぁんっ♡いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+うっ…うっ…うっ…ひゃんっ！あああぁんっ！…
+んっ...んっ...らめぇ♡あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ああああぁんっ！んっ...んっ...ああぁんっ！
+ひゃあぁんっ！んああぁんっ！ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+…そんなに…されたら…あん
+
+<StopSE>
+
+<PlaySE: sub2_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+もうだめ……イっちゃいそう…
+いっ…イッちゃう…らめぇ…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+いやぁんっ！あんっ♡んっ...
+うっ…うっ…うっ…あああぁんっ！…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+…イクっ！イクっ！イくぅっ！…ひゃあぁんっ！
+…イクっ！イクっ！イクっ！あんっ！あんっ！…いくぅっ！…ああああああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+うっ…うっ…うっ…
+んっ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+イきすぎて…体痺れちゃった…はぁ…はぁ…セックス…気持ちよすぎる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 03_nurse, 25, 100, 0>
+
+<ShowPicture: 1, t_sub7a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース>
+ものすごく激しいんですね♡勇者様♡
+また気が向いたら来てくださいね♡
+
+<CE: 1>
+
+<CE: 4>

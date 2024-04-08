@@ -1,0 +1,55 @@
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+何かこの街で怪しい事件とかってありませんでしたか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+怪しいってわけじゃないんだけど、
+実は私のお店の食料が盗まれたりするのよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+それって２年前からですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ええ。そうなのよ。本当に困っててね…今まで何回も盗まれて…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+やっぱり...マリアさんの言った通り、食料が２年前から
+食料の盗難事件があったのか...
+これはもしかして、サキュバスと関係してるんじゃ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの...もしかして、翼の生えた動物のようなのが
+盗んでいったんじゃないですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ん～…姿まではハッキリとは分からないけど、確かにそんな気がしてるわ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+この街で、他に怪しい事件とかってありますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ん～…そうねぇ…最近、女神像に近づいた子が怪我をしたったよく聞くわね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+女神像？なんですか、それ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+マリアのいる教会の右にある金色の銅像のことよ。
+神聖なものだから、みんなあそこにお祈りに行くんだけど、
+なんだか最近、女神像から変な音がするとかなんだとか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…女神像ですね…分かりました！
+ちょっと調べる価値はありそうですね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ええ。勇者様が来てくれて本当に心強いわ。これからもよろしくね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。よろしくお願いします。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+女神像かぁ…確かにそこは盲点だったね。
+何か特殊な仕込みがされてるのかも？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。じゃあ調べに行ってみようか。

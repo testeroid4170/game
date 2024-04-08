@@ -1,0 +1,113 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+う～ん…普通の銅像に見えるけどなぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(………なんだろう…なんだか…嫌な感じがする…
+サキュバスと戦っていく中で、何か不思議な感覚が
+芽生えたのかもしれない…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+みんな…ちょっといいかな？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+なぁに？オタくん？ももに愛の告白とか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+いや、そうじゃなくてね。なんか…この銅像から、
+サキュバスのような嫌な感じがするんだ…
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えっ！？サキュバスの…それってどういうこと？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん…うまく説明出来ないんだけど、
+サキュバス特有の気配というかを感じるんだ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+前はサキュバスが変身していて分からなかったけど、
+変身後のサキュバスと同じような気配がするんだ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+気配ねぇ…ということは、
+銅像の中にサキュバスが居るかもしれないってこと？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん…もしかすると、そうかもしれない…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+う～ん…なるほどねぇ…でも、
+この銅像中に入るための隙間なんてあるのかな？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あの…ちょっと気になった所があるんだけど…
+この銅像の横の方…なんか、色が少し違うところがない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+どこ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ここなんだけど…周りと少し色が違う気がするんだ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ん～…まぁ確かに言われてみれば…そうかも…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ちょっと触ってみよっか………
+
+<WindowPosition: Bottom><Background: Transparent>
+ゴゴッ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+わぁっ！？銅像のなかに隙間が出来たよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+これって…
+
+<WindowPosition: Bottom><Background: Transparent>
+ばぁんっ！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+わわっ！？
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 002_crysis, 25, 100, 0>
+
+<ShowPicture: 1, t_sv5d, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ？？？>
+流石は噂に聞く勇者ね…隠れていた私の気配を感じとるなんてね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+お前は…サキュバス！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うわぁっ！？本当に銅像のなかに隠れてたよ…
+オタくんの勘すごすぎ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+お前があの家の娘さんを誘拐したのか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+そんなのあんた達に教える義理はないでしょ？
+どうせ今から私に倒されるのだから…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+みんな！戦うよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: みんな>
+うん！
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 001_battle, 25, 100, 0>

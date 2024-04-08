@@ -1,0 +1,296 @@
+<CE: 1>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ねぇねぇ！せっかく病院に来たんだし、
+ナースのコスプレしようよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いいね！ナースのエロコスしてオタくんに見せびらかそっか！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+見せびらかすって…
+まぁでも私もナースさんの格好してみたいかも
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それじゃあ早速着替えよっか！
+
+<ShowPicture: 1, gl_n1.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+どう？オタくん？ウチらのナースコスは？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+トリプル爆乳ナースだね！デカ乳ナースさんが
+エッチな診察しちゃうぞ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ももちゃんノリノリだね。
+でも私もエッチな気分になってきたかも…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+じゃあ、ナースさんの代わりにオタくんがウチらの
+ドスケベボディを診察してくれる？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+しっ…診察…やってみるね…
+
+<ShowPicture: 1, gl_n1.3, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: momo_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+うっ…うっ…うっ…ひゃああぁんっ！…んっ…んっ…
+あぁんっ…ああああぁんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+おっぱい気持ちいい？もっと揉んでもいいよ？
+もっと強く揉んでも大丈夫だよ？
+
+<StopSE>
+
+<PlaySE: momo_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+好きなだけおっぱい揉んでいいんだよ？
+好きなだけおっぱい揉んでいいんだよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いやぁんっ！ひゃあぁんっ♡いやあぁんっ♡
+あああぁんっ！…いやああぁんっ！ひゃんっ！
+
+<StopSE>
+
+<PlaySE: momo_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあぁんっ！んっ♡んっ♡いやぁんっ♡
+いやあぁんっ♡いやぁんっ！んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃああぁんっ！…あああぁんっ！…あんっ！あんっ！
+あぁん♡あんっ！んっ...んっ...
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+おっぱい思いっきりモミモミしてね♡
+おっぱいもっとモミモミしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いやあぁんっ♡あっ...あんっ！
+ああぁん…あっ♡ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+おっぱいもっとモミモミしてぇ♡
+おっぱい思いっきりモミモミしてね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃんっ！いやああぁんっ！んっ…んっ…
+あんっ！んっ...んっ...んっ...ああああぁん...
+
+<StopSE>
+
+<PlaySE: momo_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ああぁんっ♡あんっ♡あっ...
+んっ…んっ…んおおおんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+おっぱいもっとモミモミしてぇ♡
+おっぱい気持ちいい？もっと揉んでもいいよ？
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いやぁんっ！…ひゃあぁんっ！んあっ！…
+ひゃあぁんっ♡あんっ♡あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あんっ！うっ...うっ...うっ...ひゃあぁんっ！
+あぁんっ！感じるぅ♡ひゃあんっ♡
+
+<ShowPicture: 1, gl_n1.2, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: ririka_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ひゃああぁんっ！…あぁんっ！んっ…んっ…
+んああぁんっ！あぁんっ！んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱい揉まれるの気持ちいい♡
+おっぱい思いっきりモミモミしてね♡
+
+<StopSE>
+
+<PlaySE: ririka_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱい気持ちいい？もっと揉んでもいいよ？
+乳首にデコピンしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ひゃあぁんっ♡んっ...あっ...
+いやああぁんっ！うっ…うっ…うっ…んっ…あぁんっ！
+
+<StopSE>
+
+<PlaySE: ririka_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ああぁん…あぁんっ…んああぁんっ！
+あんっ♡ひゃんっ！いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いやぁんっ！…ひゃあぁんっ！ひゃんっ！
+んああぁんっ！んああぁん...ひゃあん…
+
+<StopSE>
+
+<PlaySE: ririka_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もっと乳首つねってぇ♡
+乳首にデコピンしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あんっ！ひゃあぁんっ♡あんっ♡
+あぁん♡ああぁん…んああぁん...
+
+<StopSE>
+
+<PlaySE: ririka_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もっと乳首つねってぇ♡
+もっと強く揉んでも大丈夫だよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あんっ！あんっ！ひゃああぁんっ！…んっ…あぁんっ！
+ああああぁん...あぁんっ…うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: ririka_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いやぁんっ！んっ...ひゃあぁんっ♡
+んっ…あぁんっ！あああぁんっ！…ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱい気持ちいい？もっと揉んでもいいよ？
+もっと乳首つねってぇ♡
+
+<StopSE>
+
+<PlaySE: ririka_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ…あぁんっ！いやぁんっ！…あっ…あっ…あっ…
+いやあぁんっ♡ひゃんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うっ...うっ...うっ...ひゃあんっ！んああぁんっ！
+あんっ！あっ♡感じるぅ♡
+
+<ShowPicture: 1, gl_n1.4, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: aoi_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いやぁんっ！…いやああぁんっ！ひゃあぁんっ！
+あんっ…ひゃあぁん...うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+おっぱいワシ掴みしてぇ♡
+おっぱいもっとモミモミしてぇ♡
+
+<StopSE>
+
+<PlaySE: aoi_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+もっと乳首つねってぇ♡
+
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んっ...いやあぁんっ♡あんっ♡
+あぁんっ！んおおおんっ！んああぁんっ！…
+
+<StopSE>
+
+<PlaySE: aoi_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あんっ…ひゃあぁん...んっ...んっ...
+いやあぁんっ♡あんっ！いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んおおおんっ！んっ…あぁんっ！いやああぁんっ！
+ひゃあぁん...あっ♡ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: aoi_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+おっぱいワシ掴みしてぇ♡
+おっぱい揉まれるの気持ちいい♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んっ...あんっ♡ああぁんっ♡
+ああああぁん!あんっ♡あぁんっ…
+
+<StopSE>
+
+<PlaySE: aoi_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+好きなだけおっぱい揉んでいいんだよ？
+おっぱいもっとモミモミしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃああぁんっ！…あんっ！あんっ！あぁんっ！
+ああああぁんっ！あんっ！あぁんっ…
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あっ...あんっ♡ひゃあぁんっ♡
+うっ…うっ…うっ…んおおおんっ！あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+おっぱい思いっきりモミモミしてね♡
+もっと乳首つねってぇ♡
+
+<StopSE>
+
+<PlaySE: aoi_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あああぁんっ！…あっ…あっ…あっ…ひゃああぁんっ！…
+んっ...あんっ！あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ああああぁんっ！ああああぁん...ああぁんっ！
+もっとぉ♡ああああぁん!あぁんっ！
+

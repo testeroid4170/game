@@ -1,0 +1,55 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+昨日は大変ありがとうございました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+こちらこそありがとうございました。
+昨日はパーティーを開いて下さりとても感謝しています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+実は、僕達はすぐに他の村にサキュバスを探しに行かなくては
+ならないんです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+えぇっ！？まだ来たばかりなのにですか…
+もう少し休んでいかなくて大丈夫なのですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい…こうしている間にもサキュバスによる被害は続いていると
+思いますので…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+なるほど…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+それで、次にサキュバスが居そうな場所を探しているんですけど、
+手がかりなどはあるでしょうか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+手がかりですか…実は先日、フラムという街で
+誘拐事件が起きたと聞きました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+フラム…ですか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+はい。この街の東に位置する街で、
+荒地を通り過ぎたところにあります。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…分かりました。ありがとうございます。
+早速行ってみようと思います！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ナース長>
+いえ。お役に立てて光栄です。先日は本当にお世話になりました…
+勇者様たちにして頂いた恩は計り知れません。
+勇者様たちの行く末に幸福があることをお祈り申し上げます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。こちらこそありがとうございました！
+それでは出発させて頂きます！
+
+<CE: 1>

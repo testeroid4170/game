@@ -1,0 +1,334 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sv5b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ぐっ…ぐおっ！？…なん…ですって…
+まさか…ここまで強いとは…想定外だわ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よし！今からお前に種付けをするぞ！
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, sv5a, Scale[100][100]>
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+いやぁんっ！あぁんっ…いやっ…
+あんっ…んああぁんっ…あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…やめろっ！
+…ぐあぁっ…
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ぐぅおっ！ぐおぉあっ！うぐおぉっ！
+あぁんっ！んああぁんっ！ひゃあっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…はああああぁっ！？
+…うああああぁ！
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ああぁんっ！あぁんっ…ああぁんっ…
+あんっ！んんっ…んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…ぐっ…ぐうぅっ…
+…うおおっ！？
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃあぁんっ！んんっ…ひゃあんっ…
+ぐぅおっ！おっ！おぉっ！うぐおぉっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃあああぁんっ…うああぁんっ…ひゃあああぁんっ！
+あっ…あぁんっ！あんっ…ひゃあぁんっ！
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あんっ！ひゃあんっ…うっ…うっ…うっ…
+うぐおぉっ！ぐっ！うおぉあっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+そっ…そこは…ダメだ！
+やっ…やめてくれ…
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+いやっ…んああぁんっ！んんっ…
+ひゃあっ…あぁんっ…あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…やめろっ！
+…ゆ…許さんぞ…
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+んああぁんっ…ひゃあああぁんっ…ひゃんっ…
+おっ！おぉっ！ぐおぉあっ！ぐっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…ぐあぁっ！…
+やっ…やめてくれ…
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+んんっ…ひゃんっ…ああぁんっ！
+ひゃんっ…んっ…んっ…うああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…うおおっ！？
+…ゆ…許さんぞ…
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+うああぁんっ…んっ…んっ…ひゃんっ！
+んんっ！ぐおぉあっ！うおぉあっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ああぁんっ！んああぁんっ！あぁんっ…
+うおぉあっ！ぐっ！ぐおぉあっ！
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ぐうぅっ！ああぁっ！ぐおぉあっ！
+あんっ！ああぁんっ！ひゃあああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+それは…効きすぎる…
+…うごごごご！
+
+<PlaySE: sv_1a, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+んああぁんっ！あぁんっ…あんっ…
+んんっ…あんっ！あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…ぐうっ…
+…ゆ…許さんぞ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+中に出すぞ！
+
+<PlaySE: sv_1z, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+たのむ…やめてくれ！
+そんなもの中に出されたら…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うっ！うおおおおぉ！出すぞ！
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+おっ…おおおおおおぉんっ！…はぁ…はぁ…はぁ…
+んあんっ！んあああああああんっ！
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+はぁ…はぁ…はぁ…おっ…おっ…はぁ…はぁ…
+おっ…おっ…はぁ…はぁ…はぁ…はぁ…はぁ…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 05_buny, 25, 100, 0>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+何回見ても、オタくんの腰使いはすごいね…
+もも今晩もあんな風にいっぱい責められたいなぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あの強情なサキュバスがすぐに大人しくなるもんね
+…本当にすごいよ…
+
+<ShowPicture: 1, sv5a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よし！今からお前に尋問するぞ！
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, sv_5b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ぐっ…私がお前らに口を割るとでも思ったのか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうか。それなら、これでどうだ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うおおおお！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あっ…あああぁんっ！…ひゃあああぁんっ！
+…それ…らめぇ！…そんなのされたら、
+壊れちゃう！ひゃあああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よし！もっと激しくされたくなかったら、質問に答えろ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+はい！答えるからぁ…はげしくしないでぇ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よし！じゃあお前の名前を言え！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あぁんっ！私の名前はオリヴィエですぅ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+オリヴィエ！？じゃあこいつが街で女の子の
+誘拐を指示した魔族なの！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+お前が街で女の子の誘拐を指示したのか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+はっ…はいいぃ！私が指示しました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なんでそんなことをした！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+それはぁ…あの子たちが特殊な血を持っていたからですぅ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+特殊な血？なんだそれは！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あぁんっ！…魔族の力をより強大にするものです。
+…あの女どもの血を飲めば、よりパワーアップできるんですぅ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…それで誘拐したんだな！その子たちは今どこにいる！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+事務所のモニタールームに監禁していますぅ…ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ちょっと確認してきて貰ってもいいかな？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん。私が行くね。
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いたよ。女の子２人。
+
+<ShowPicture: 1, sv5a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+おい！この子達が誘拐した女の子なのか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+はいい！そうですぅ…ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(よし、これで誘拐された女の子は救えたぞ…あとは…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+帰還の魔法陣について知っていることを話せ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+なっ…なんですか…それ…私は知りません…
+そんなの…あああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(こいつも知らなかったのか…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よし、じゃあ尋問はこれで終わりだ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+よっ…良かった…それじゃあ私を解放して…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そんな訳ないだろ！お前は女の子を誘拐したんだからな！
+お前には特別に2連続射精をお見舞いしてやる！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+やっ！やめて！2連続射精なんてしたら、私の体がっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+だまれ！お前にはそれ相応の罰を与える！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うおおお！
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃあああぁんっ！…んあああぁんっ！らめっ！
+…そんなに中出しされたら…んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+うっ...うっ...ううう...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+まだだ…もう1発
+おらっ！
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うっ…うあああ…あああぁ…らめぇ…しゅごしゅぎりゅう…
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<CE: 4>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 05_buny, 25, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+2連続射精とか…ヤバすぎ…ウチにもやって欲しいんですけど…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+オタくんすごぉい♡今度ももにもそれやってぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あのサキュバス、完全に意識失っちゃってるね…
+それだけすごい威力だったんだね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+……はぁ…はぁ…はぁ…
+とりあえず、この魔族なんだけどカミラさんの
+所で対処してもらおうか。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+その後で、この子達を元の家に帰してあげようか。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+うん！そうだね！それがいいと思う。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+それじゃあ、カジノに行ってカミラさんの所に
+行こうか。
+
+<CE: 1>

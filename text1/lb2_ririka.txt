@@ -1,0 +1,251 @@
+<CE: 3>
+
+<ShowPicture: 1, bk_road1, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…そういえば、りりかちゃんの家って、今日はご両親とかいるの？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+う～ん…パパは単身赴任中だから、家にはいないよ。
+それで、ママは多分家に居るかな。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あと、姉2人は家に居るかわかんない。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっかりりかちゃんはお姉さんがいたんだね
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そうそう。姉が二人もいるといつもうるさくって
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっか、でも楽しそうでいいね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そんなことないって。姉なんてうるさいだけだよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ははは。そっか。
+じゃあ今日お会いしたらちゃんと挨拶しなきゃだね
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そんなことしなくていいって(笑)
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+てか姉がオタくんに興味もったらヤバいから
+家着いたらすぐにウチの部屋行こ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: >
+ガチャッ
+
+<ShowPicture: 1, bk_living, Scale[100][100]>
+
+<ShowPicture: 2, t_manaka1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+おかえり、りりちゃん。
+あれっ！その子は？
+
+<ShowPicture: 2, t_i_r.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ああ…この人はウチの彼氏だよ。
+ちょっと話したいから、2人で部屋に行くね
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ええっ！？彼氏！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+えぇ～。そんなこと言わないでよ！
+りりちゃんが彼氏を連れてくるなんて初めてじゃない。
+ママ興味あるなぁ～
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もぉう...いいから早く部屋行かせてよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ちょっとくらい、いいじゃない。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+りりちゃんがお世話になってます。ママのまなかです。よろしくね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はっ…はい！よろしくお願いします！
+(りりかちゃんのママ…すっごく美人だ…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(しかも裸エプロン！？すごい...)
+
+<ShowPicture: 2, t_ruri1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るか>
+あれっ？お客さん？
+
+<ShowPicture: 2, t_r.ruri1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ！姉貴！
+
+<ShowPicture: 2, t_ruri.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ねぇ、るりちゃん聞いてよ！
+この子、りりちゃんの彼氏君なんだって。
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+へぇ～。そうなんだぁ。そんなの初めてじゃない？
+姉のるかです。よろしくね♡
+
+<ShowPicture: 2, t_ruri.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ちょっと！姉貴！下はいてないじゃん！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ん？本当だ。ふふっ♡彼氏くんにはちょっと刺激的だったかな？
+お姉さんのおまんこ、マン毛がいっぱい生えててエッチでしょ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+わっ！？…それは…あの…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もうっ！ウチの彼氏に変なことしないでよね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+でも、どうせ今から
+部屋に行って2人でパコりまくるんでしょ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+だったら前戯だと思って、ちょっとくらい
+エッチこと言ってみてもいいじゃん？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もうっ！やめてってば！
+
+<ShowPicture: 2, t_hinata1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+なになに？なんかさっきから騒がしいけど？
+
+<ShowPicture: 2, t_ri.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うげっ！ひな姉まで...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あれっ？この子りりかの彼氏君とか？
+かわいい顔してんじゃん。
+結構…というか超タイプかも…
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あ～分かるかも…
+私もこの子タイプだなぁ…
+
+<ShowPicture: 2, t_ri.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+てか、ひなた姉もウチの彼氏にそんな恰好見せつけんなよ！
+ちゃんと服着て！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+まぁまぁ、別にいいじゃん。
+それよりみんなして、どうしたの？
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+りりかがね、今から彼氏君部屋に連れ込んで
+パコりまくるんだって
+
+<ShowPicture: 2, t_ri.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ちょっと！やめてってば！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+へぇ～…そんなことするんだぁ…
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ねぇ、でもどうせ彼氏ならいつでもエッチできるんでしょ？
+だったら今日はウチらもエッチに混ぜてくれない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あっ！それいいじゃん！
+私もずっとエッチしてないから溜まってるんだよね。
+
+<ShowPicture: 2, ruri.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+るかちゃん、ずっと彼氏いないって言ってたもんね。
+それじゃあママも混ぜてもらって、ハーレム5Pとかどう？
+
+<ShowPicture: 2, t_r.m1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えっ！？何勝手なことを！？
+
+<ShowPicture: 2, t_r.ruri1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いいじゃん。どうせアンタはいつでもヤレるんだから。
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ウチらは彼氏ずっといなくて溜まってるんだよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+それに、今日ヤラセてくれなくても、連絡先交換して彼氏君と
+りりかのいない所でパコりまくるから。
+それなら、今見てるところで一緒にエッチした方がいいでしょ？
+
+<ShowPicture: 2, t_ri.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うっ…もう…何言ってもダメみたいね。
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+じゃあ、エッチの前に連絡先交換しよっか。
+ウチとはこれから、定期的にエッチしてね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あっ！私も交換する～。
+私ともちゃんとエッチしてよね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ちゃんとエッチしてくれるように、
+毎日オナニー動画送っとくね。
+
+<ShowPicture: 2, t_m.r1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あっ！私も交換するわぁ。
+私も10年以上セックスしてなくて、かなり溜まってるから…
+
+<ShowPicture: 2, t_i_r.m1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+はぁ！ママまで！何考えてるの！？
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+それじゃあ、りりかの部屋行ってパコりまくるか！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+うん！そうしよ。そうしよ。
+
+<ShowPicture: 2, t_ri.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+はぁ…もう…なんでこうなるの…
+
+<CE: 1>

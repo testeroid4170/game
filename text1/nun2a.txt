@@ -1,0 +1,71 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+もしかして勇者様ですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい、そうです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はぁ！良かった！
+これで娘が帰ってくるかもしれません！
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+やっぱり…誘拐事件は本当だったんですね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はい…3日前のことです…
+娘の悲鳴が聞こえたので、部屋に行ってみると…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+血と娘の服の残骸だけが残っており…
+娘の姿はどこにもありませんでした…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+これじゃ、前に行った街の事件と全く同じね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+お母様、これは恐らくサキュバスの仕業だと思います。
+以前訪れた街でも全く同じ手口の事件が起こっていたんです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+なるほど…そうなんですか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+前回の時は、夜中に見回りをしていた騎士が犯人だったのですが、
+娘さんを探しに行ってすぐに出会った人っていますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いえ…家の中と家の近くをすぐに探しましたが、
+夜中だったので人は1人もいませんでした…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そうですか…手がかりは無しということですね…
+それでは私達の方でも引き続き調査をさせて頂きます。
+なにか手がかりが見つかりましたら、私たちにお伝えください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はい。娘の捜査をして頂き大変感謝しています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+いち早く見つけられるよう善処しますので、
+これからもよろしくお願い致します。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+なるほどね…今回は手がかりもなさそうね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+でも、犯行はサキュバスのものと思ってよさそうだね
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+じゃあ、引き続き街で聞き込みをしよっか。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん。でも前回みたいに聞いた人がサキュバスの可能性もあるから、
+迂闊に近づきすぎたり、言うこと聞きすぎたりしないようにしなきゃね！
+
+<CE: 1>

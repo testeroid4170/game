@@ -1,0 +1,123 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: 002_crysis, 25, 100, 0>
+
+<CE: 3>
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もしかして…あいつが…大魔族…
+
+<ShowPicture: 1, t_sv2c, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+勇者たちか…よくもまぁ…ここまで来たな…
+まさか、私が用意したサキュバスを全て倒すなんて思わなかったよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+お前が大魔族か！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+ああ…そうだとも…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+こいつが諸悪の根源ね…
+なんだか今までのヤツとは比べ物にならないヤバさね…
+
+<ShowPicture: 2, t_momo2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+う～…もも怖くなってきたぁ～…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+おい！大魔族！いくつか聞きたいことがある！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+聞きたいこと？…まぁいい…ここまで来た褒美だ…
+何でも聞くがいい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+お前たちの目的は何だ！？何で人間に変身なんかするんだ！？
+変身なんかせず、最初から街を襲えばいいだろ！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+目的か…目的は人間を我々、サキュバスの支配下におくことだ…
+人間をサキュバスのためだけに働く奴隷のようにすることさ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+奴隷だと…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+変身するのは、サキュバスが自分達だけで食料などの供給が
+できないからさ…
+人間の方が生活能力が高いからね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+サキュバスは人間無しじゃ、生きていけないのさ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+だとしても、最初から街を襲えばいいだろ！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+昔はそうしてたさ…でも失敗した…
+騎士たちとの戦いは長期化すれば、
+生活能力の低いサキュバスたちが不利になる。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+だから変身して、内部から人間を
+攻略する必要があったのさ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ちっ…そういうことか…
+それであんな回りくどいやり方を…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+最後の質問だ！…帰還の魔法陣のことは知っているか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+帰還の魔法陣？…ああ…時空間移動のことか…
+この世界にいる者を異世界に送るという…
+確か、何年も前に人間たちから奪ったな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうか…なら…お前を倒せば、元の世界に帰れる訳だな！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+それができたらな
+全くお前たちは、私の部下を全滅させたそうだね。
+そのケジメ…総大将の私がキッチリつけさせて貰うよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+僕達だってお前になんか負けないぞ！
+
+<ShowPicture: 2, t_ririka2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+よし！これで最後の戦いだね！こんな奴みんなでやっつけちゃおうよ！
+
+<ShowPicture: 2, t_aoi2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっ…そうだね…頑張ろっか！
+
+<ShowPicture: 2, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+元の世界に帰るためだもんね…もも頑張るよ！
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+みんな、行くよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 大魔族>
+まぁ、私を倒すなんて夢物語だろうけど…かかってきな…
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 001_battle, 25, 100, 0>

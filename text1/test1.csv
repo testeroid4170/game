@@ -1,0 +1,18 @@
+やる順序
+１ギャルイベント
+２ハーレムイベント
+３サブキャラ
+４宿
+５ハーレムパーティー
+６サキュバス
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, gl_s1.1, Scale[100][100]>
+
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+

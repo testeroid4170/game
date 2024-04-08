@@ -1,0 +1,98 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+こちらなんですが…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ここか…なんだか狭くて薄気味悪そうで、
+いかにもサキュバスが居そうって感じね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はい。この中にいる人が怪しいと思うのです。
+私は戦えないので、先に入って頂けませんか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。…分かりました…この中にサキュバスがいるのかもしれないのか
+……よし…心してかかるぞ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あれっ…どこにいるんだ？…もしかして、隠れているのか……
+
+<WindowPosition: Bottom><Background: Transparent>
+ガチャッ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ん？
+あれ…もしかして…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ちょっとドア開けてみよっか…
+
+<WindowPosition: Bottom><Background: Transparent>
+ガチャガチャガチャ……
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+開かない……
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えぇっ！？じゃあウチら閉じ込められたってこと！？
+あの！？ここ開けてください！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ふふふ…こいつらが本当にあの噂の勇者なのかい？
+ソフィアとイザベルを倒したって聞いたからもっと凄いやつらを
+期待したんだけどね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+まさかこんなマヌケな連中だったとは、笑わせるわ！はははは！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+くっ！？さっき話しかけた人が魔族に変身してたのか！？ 
+完全にやられた...
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+確かに、話しかけた人が魔族の可能性もあるんだもんね…
+私たちの注意不足だったね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+え～！ももたちここから出られないのぉ！？
+何とかして出られる方法探そうよぉ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+何とかっていっても…外から鍵を閉められたんじゃ無理くない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+う～ん…何かいい手は無いかな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ！そういえば…この前王女様から貰った宝具は？
+確か、凄い力を発揮するって言ってたよね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっ…そういえば…使うなら…今だよね…
+オタくん！宝具でこの扉壊そうよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。やってみるね…
+よし…
+
+<WindowPosition: Bottom><Background: Transparent>
+宝具が光をまとった…
+
+<WindowPosition: Bottom><Background: Transparent>
+ゴンっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+やったぁ！ももたち出られたよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+はぁ…良かった…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+みんな！それよりも、早くサキュバスを追いかけなきゃ！
+ここから居なくなってるし！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっ…そうだね。急がないと！

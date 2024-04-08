@@ -1,0 +1,1228 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<CE: 3>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+それじゃあ…全員服を脱いで…
+
+<ShowPicture: 1, gc_li1.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+彼氏君…どれでも好きなおっぱいから揉んでいいよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+私たち、全員デカ乳だからどれも気持ちいいよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+好きなおっぱいからモミモミしてね♡
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃんっ！んああぁんっ！…んっ…んっ…
+あぁんっ…あんっ！んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+おっぱい気持ちいい？もっと揉んでもいいよ？
+おっぱい揉まれるの気持ちいい♡
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+おっぱいワシ掴みしてぇ♡
+もっと乳首つねってぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あんっ！ひゃあぁんっ♡いやあぁんっ♡
+あんっ！あんっ！んっ…んっ…んっ…あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃんっ♡あぁんっ！ああぁんっ！
+んっ...ひゃあぁんっ♡ああぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んおおおんっ！あんっ！あんっ！いやぁんっ！…
+らめぇ♡んああぁんっ！うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+おっぱい思いっきりモミモミしてね♡
+もっと強く揉んでも大丈夫だよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやぁんっ！あんっ！ひゃんっ！
+ひゃんっ♡らめぇ♡ああああぁん!
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+乳首にデコピンしてぇ♡
+もっと強く揉んでも大丈夫だよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んあっ！…んおおおんっ！あああぁんっ！…
+あんっ！ひゃあぁん...んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやあぁんっ♡いやぁんっ！ひゃあぁんっ♡
+あっ…あっ…あっ…ひゃんっ！ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+おっぱいもっとモミモミしてぇ♡
+おっぱい思いっきりモミモミしてね♡
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやああぁんっ！ひゃあぁんっ！ひゃああぁんっ！…
+いやあぁんっ♡ああぁんっ♡ひゃあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃあん…んああぁんっ！ああああぁんっ！
+ああぁんっ！あんっ…ひゃあぁん...
+
+<StopSE>
+
+<PlaySE: sexy1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あぁんっ！あんっ！あんっ！ひゃああぁんっ！…
+うっ...うっ...うっ...ああああぁんっ！ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+おっぱいワシ掴みしてぇ♡
+
+<StopSE>
+
+<PlaySE: sexy2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+もっと強く揉んでも大丈夫だよ？
+おっぱいワシ掴みしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+いやぁんっ！ひゃあぁんっ♡いやあぁんっ♡
+あんっ！あんっ！ひゃああぁんっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sexy1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃあんっ♡ああぁん…ひゃあぁんっ！
+あんっ！あんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃああぁんっ！…んああぁんっ！…あっ…あっ…あっ…
+んっ...んっ...んああぁんっ！んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sexy3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+もっと強く揉んでも大丈夫だよ？
+おっぱい揉まれるの気持ちいい♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あっ...いやぁんっ！ひゃあぁんっ♡
+いやぁんっ♡ああぁんっ！あぁんっ！
+
+<StopSE>
+
+<PlaySE: sexy2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+好きなだけおっぱい揉んでいいんだよ？
+おっぱい揉まれるの気持ちいい♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃんっ！んっ…あぁんっ！いやああぁんっ！
+うっ...うっ...うっ...ひゃあぁんっ！んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sexy1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あっ...ああぁんっ♡ひゃあぁんっ♡
+ひゃあぁんっ！んっ…んっ…ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+好きなだけおっぱい揉んでいいんだよ？
+乳首にデコピンしてぇ♡
+
+<StopSE>
+
+<PlaySE: sexy2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あぁんっ！ひゃあぁんっ！あああぁんっ！…
+ああぁんっ♡いやあぁんっ♡あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ああぁん…ああぁんっ！あんっ！
+あんっ！ひゃあぁんっ！感じるぅ♡
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んああぁんっ！…いやぁんっ！…ひゃんっ！
+ひゃあんっ！ああぁんっ！ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+おっぱいもっとモミモミしてぇ♡
+おっぱい揉まれるの気持ちいい♡
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+もっと強く揉んでも大丈夫だよ？
+乳首にデコピンしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃあぁんっ♡あんっ♡あんっ！
+あああぁんっ！…んっ…んっ…ひゃんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+らめぇ♡ああああぁんっ！ひゃあぁん...
+ひゃんっ！ああぁんっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んああぁんっ！…んあっ！…んっ…あぁんっ！
+ひゃあぁんっ！ひゃあん…んああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+おっぱい揉まれるの気持ちいい♡
+乳首にデコピンしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あっ...ああぁんっ♡あんっ！
+ひゃあん…ああぁんっ♡あっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+もっと強く揉んでも大丈夫だよ？
+乳首にデコピンしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んっ…んっ…あんっ！あんっ！ひゃああぁんっ！…
+んああぁんっ！ああぁんっ！ひゃあぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ！いやぁんっ！ああぁんっ♡
+あああぁんっ！…ひゃあぁんっ！あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+好きなだけおっぱい揉んでいいんだよ？
+おっぱい思いっきりモミモミしてね♡
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んっ…んっ…ひゃんっ！んあっ！…
+いやあぁんっ♡あっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んああぁんっ！ああああぁん...あぁんっ…
+んっ...んっ...もっとぉ♡ひゃあぁん...
+
+<StopSE>
+
+<PlaySE: ririka_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ…あっ…あっ…んあっ！…んおおおんっ！
+んっ...んっ...んっ...んっ...んっ...ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱいワシ掴みしてぇ♡
+もっと乳首つねってぇ♡
+
+<StopSE>
+
+<PlaySE: ririka_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱい思いっきりモミモミしてね♡
+好きなだけおっぱい揉んでいいんだよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ...あっ...いやぁんっ！
+んああぁんっ！…いやああぁんっ！んおおおんっ！
+
+<StopSE>
+
+<PlaySE: ririka_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あぁんっ！ああああぁんっ！ひゃあんっ♡
+あんっ♡あんっ！ひゃあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ…あっ…あっ…んっ…あぁんっ！いやああぁんっ！
+いやぁんっ♡んああぁんっ！ああぁん…
+
+<StopSE>
+
+<PlaySE: ririka_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱいワシ掴みしてぇ♡
+おっぱい揉まれるの気持ちいい♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ...ひゃんっ！いやぁんっ！
+あんっ…らめぇ♡ひゃあん…
+
+<StopSE>
+
+<PlaySE: ririka_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっぱい思いっきりモミモミしてね♡
+おっぱい揉まれるの気持ちいい♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うっ…うっ…うっ…んっ…あぁんっ！ひゃあぁんっ！
+ひゃあぁん...あんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: ririka_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ひゃんっ！んっ...あっ...
+んっ…んっ…あぁんっ！いやああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もっと強く揉んでも大丈夫だよ？
+おっぱいもっとモミモミしてぇ♡
+
+<StopSE>
+
+<PlaySE: ririka_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+んっ…あぁんっ！んおおおんっ！あっ…あっ…あっ…
+ああぁんっ♡ひゃあぁんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あんっ！ああああぁん...ああああぁんっ！
+ひゃあん…あぁんっ…ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+早くお姉さんとセックスしようよ！
+もうお姉さんのおまんこヌルヌルだからすぐ入るよ？
+
+<ShowPicture: 1, gc_li2.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃあんっ！ああぁんっ！あんっ！
+ああぁんっ！あっ♡もっとぉ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+…おちんぽっ！…あぁんっ！…このおちんぽ…凄すぎ…
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃあんっ！ああぁんっ！ああぁんっ♡
+うっ…うっ…うっ…んああぁんっ！…ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+いやぁんっ！…んあっ！…ひゃあぁんっ！
+ひゃあんっ！ああああぁん...あんっ…
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+んっ...ひゃんっ！いやぁんっ！
+いやぁんっ！…あんっ！あんっ！ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+激しいっ…あんっ！…気持ちよすぎて…おかしくなっちゃう！
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+…この体位…あんっ！…大好き…
+そこ……そこが気持ちいいの！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あんっ！ひゃんっ！ひゃあぁんっ♡
+あんっ！あんっ！いやああぁんっ！んおおおんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+いやああぁんっ！んおおおんっ！ひゃんっ！
+ああぁんっ！あんっ！ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ガンガン突かれるの好き…
+そこ好き！…もっとついてぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ああぁんっ！んああぁん...あんっ！
+あんっ！あんっ！んおおおんっ！ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+…ヤバい…ちんぽ…すごい…
+そこ…すごくいい…
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あんっ！ひゃあぁんっ！んああぁん...
+あぁんっ！んああぁん...ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+気持ちいい…あんっ…これ…最高…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃああぁんっ！…んあっ！…いやああぁんっ！
+感じるぅ♡うっ...うっ...うっ...ああぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+んっ...ひゃあぁんっ♡ひゃんっ！
+うっ...うっ...うっ...んああぁんっ！んああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+いやぁんっ！んっ...あんっ♡
+うっ…うっ…うっ…んっ…あぁんっ！あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃあん…あんっ…んああぁん...
+あんっ♡いやぁんっ♡ああぁんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+おまんこ…もっとついてー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+あんっ！あんっ！あっ…あっ…あっ…ひゃああぁんっ！…
+あぁんっ！ああああぁん...ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+んああぁん...ああああぁんっ！んっ...んっ...んっ...
+いやぁんっ！…ひゃああぁんっ！…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+いやぁんっ♡ひゃあぁんっ！ひゃあんっ！
+あんっ♡んっ...ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ひゃあぁんっ！んああぁんっ！…あああぁんっ！…
+ひゃあんっ！ああぁんっ♡ああああぁん!
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+もっとぉ♡ひゃあん…あぁん♡
+ひゃあぁんっ！んっ...んっ...んっ...んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+…そんなに…されたら…あん
+もっとして！…それ好きなのぉ！
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+…ヤバい……イッちゃう…あんっ！あんっ！
+…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+いやあぁんっ♡ひゃあぁんっ♡あんっ！
+あんっ！あんっ！あぁんっ！んあっ！…
+
+<StopSE>
+
+<PlaySE: sub1_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+…イクっ！イクっ！…いくぅっ！…ひゃああぁんっ！
+…イクっ！イクっ！イクっ！あんっ！あんっ！…いくぅっ！…あああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+はぁ…はぁ…はぁ…
+んんんっ…ん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ヤバい…気持ちよすぎて動けない…
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+んんんっ…ん…
+おっ…おっ…
+
+<ShowPicture: 1, gc_li6.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+じゃあ今度はるりちゃんとママでパイズリしちゃうわね♡
+パフパフおっぱいでパイズリたくさんしちゃうね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+それじゃあまずは私からおっぱいで挟んじゃうね♡
+
+<ShowPicture: 1, ,gc_li6.2, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+見て見て！デカ乳におっぱい埋もれちゃったよ？
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…ごしごし……ずりずり……にゅぽにゅぽ…
+んんっ♡んんっ...いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あんっ...あんっ...ひゃあぁんっ...あんっ♡あんっ♡
+…にちゃにちゃ♡…むにゅう！…ごしごし♡ごしごし♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…にちゃにちゃ……むにゅう……にゅぽにゅぽ！
+んんっ...ひゃああぁんっ！いやぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+すごいおちんぽ...こすりがいがある、いいおちんぽね♡
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んんっ♡いやぁんっ！いやぁんっ♡
+…むにゅう♡むにゅう♡…にちゃにちゃ♡…むにゅう…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+気持ちいい？
+もっとムニュムニュするね♡
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…にちゃにちゃ！…ずりずり……にゅぽにゅぽ♡
+ひゃあぁんっ！いやぁんっ♡あんっ...あんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+このおちんぽでパイズリしてたら、私まで気持ちよく
+なっちゃった♡
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやぁんっ...あんっ♡あんっ♡いやぁんっ♡
+…むにゅむにゅ♡…にゅぽにゅぽ♡…ごしごし…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+強くこすられるの好き？
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…むにゅむにゅ！…ずりずり♡…むにゅう！
+んっ…んっ…ひゃあぁんっ♡あんっ...あんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ふふふ♡おっぱいが大好きなんだね♡
+おちんちんが幸せそうだよ♡
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んっ！んっ！いやぁんっ♡ひゃあぁんっ...
+…むにゅう！…むにゅむにゅ……ごしごし♡ごしごし♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…にちゃにちゃ！…にゅぽにゅぽ……ごしごし♡ごしごし♡
+いやぁんっ...ひゃあんっ♡んっ♡んっ♡
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…ずりずり……むにゅう♡むにゅう♡…にちゃにちゃ！
+あんっ...あんっ...んっ！んっ！ひゃあんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃあぁんっ...んんっ...あんっ...あんっ...
+…ずりずり！ずりずり！…むにゅう♡むにゅう♡…にゅぽにゅぽ♡
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+私の爆乳の使い道はどう？気持ちいい？
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…むにゅう♡むにゅう♡…ぐり♡ぐり♡…むにゅむにゅ…
+あんっ！あんっ！んんっ♡んっ♡んっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+るりちゃん、そろそろ私と交代して♪
+私も彼氏君のおちんぽ包みたいな♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+もぉう...しょうがないなぁ...その代わり、次は私が
+おちんぽをおまんこで食べちゃうからね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+わかったわよ。それじゃあ彼氏君覚悟してね♡
+
+<ShowPicture: 1, ,gc_li6.3, Scale[100][100]>
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…むにゅう！…ずりずり♡…むにゅう♡むにゅう♡
+あんっ！あんっ！ひゃあんっ...んんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んんっ♡いやぁんっ...んっ♡んっ♡
+…むにゅう……にゅぽにゅぽ♡…にちゃにちゃ♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…ごしごし！…ぐり♡ぐり♡…むにゅむにゅ！
+いやぁんっ...いやぁんっ♡んっ…んっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+いっぱい気持ちよくなってね…
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ...あんっ...ひゃあぁんっ！ひゃあんっ♡
+…むにゅむにゅ♡…むにゅむにゅ！…にちゃにちゃ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+どうかな？私のおっぱいは？
+若い子に負けてないでしょ♡
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…むにゅむにゅ……むにゅむにゅ！…ごしごし♡ごしごし♡
+んっ…んっ…いやぁんっ...いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+いっぱいおっぱいで気持ちよくなってね…
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んんっ！んっ！んっ！いやぁんっ...
+…ずりずり！ずりずり！…むにゅむにゅ♡…ぐり！ぐり！ぐり！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+私のおっぱいでいっぱい疲れを癒していってね♡
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…にゅぽにゅぽ……ずりずり♡…ごしごし…
+いやぁんっ...ひゃあぁんっ♡あんっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+気持ちいい？
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ...あんっ...ひゃあぁんっ♡いやぁんっ...
+…ぐり！ぐり！ぐり！…にちゃにちゃ……ごしごし！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…ぐり！ぐり！ぐり！…にゅぽにゅぽ……ごしごし！
+ひゃあぁんっ...んんっ♡んっ！んっ！
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…ずりずり♡…にゅぽにゅぽ♡…にちゃにちゃ…
+ひゃあぁんっ♡あんっ...あんっ...ひゃああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んっ♡んっ♡んんっ...んんっ！
+…にちゃにちゃ……むにゅむにゅ♡…むにゅう！
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+おっぱいとちんちんがこすれて気持ちいいね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…むにゅむにゅ♡…にちゃにちゃ……ぐり！ぐり！ぐり！
+んっ♡んっ♡ひゃあんっ...ひゃあぁんっ...
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うおおぉっ！出るっ！
+
+<CE: 2>
+
+<StopSE>
+
+<ShowPicture: 1, gc_li6.4, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ふふっ♡元気な精液いっぱいピュッピュッしたね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+今度こそ私とエッチしようね
+妹の彼氏のおちんぽ寝取ってあげるね♡
+
+<ShowPicture: 1, gc_li4.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ああぁん…ひゃあんっ！あんっ…
+らめぇ♡ああぁん…んっ...んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…入って…きたぁ………あんっ！
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んっ♡んっ♡いやぁんっ♡感じるぅ♡
+ひゃんっ！ひゃあぁんっ！うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやああぁんっ！んっ…あぁんっ！んああぁんっ！…
+ああぁん…ひゃあぁんっ！んああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あっ...あんっ♡あんっ！
+いやああぁんっ！あぁんっ！んっ…んっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+もっとして！…それ好きなのぉ！
+…そんなに…されたら…あん
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…もっと欲しいの！
+このおちんぽ…あんっ！…どんどん良くなってく…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやあぁんっ♡んっ...ひゃあぁんっ♡
+んっ…んっ…あぁんっ！あああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んっ…んっ…いやああぁんっ！あんっ！あんっ！
+ひゃあぁん...んああぁんっ！ああああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+感じるっ…そこ感じるっ！
+そこ…気持ちよすぎ…
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+感じるぅ♡ひゃあんっ！ひゃあんっ♡
+んっ…んっ…いやああぁんっ！うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…奥の方グリグリされるの好き…
+…クリトリスも…あんっ！…触って…
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃあぁん...ああぁん…あんっ！
+あんっ…あんっ！ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+激しいっ…あんっ！…気持ちよすぎて…おかしくなっちゃう！
+おまんこ…もっとついてー！
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あんっ！あんっ！ひゃああぁんっ！…んっ…んっ…
+ああああぁんっ！うっ...うっ...うっ...あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んっ...あんっ♡あんっ！
+ああぁんっ！ひゃあぁんっ！あぁんっ…
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃんっ！ああぁんっ♡ひゃあぁんっ♡
+ひゃんっ！あぁんっ！んああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ああああぁん...んああぁんっ！うっ...うっ...うっ...
+ひゃあん…あぁんっ…もっとぉ♡
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃあぁんっ！うっ…うっ…うっ…あんっ！あんっ！
+あんっ…んっ...んっ...んっ...あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+あぁん♡あんっ♡ああああぁんっ！
+うっ…うっ…うっ…ひゃあぁんっ！んああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ああぁんっ♡あっ♡あんっ…
+あんっ！あんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやああぁんっ！うっ…うっ…うっ…あっ…あっ…あっ…
+ひゃあぁんっ！ああぁんっ！あぁん♡
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ひゃあん…ひゃあぁん...ああああぁんっ！
+ひゃあぁんっ！ああああぁん...あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+
+<StopSE>
+
+<PlaySE: sub2_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+もうだめ……イっちゃいそう…
+イクっ！私イッちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+いやあぁんっ♡ひゃんっ！あんっ！
+ひゃああぁんっ！…うっ…うっ…うっ…あああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+…イクっ！イクっ！…ひゃあぁんっ！
+…イクっ！イクっ！イクっーー！ああああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+んんんっ…ん…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+気持ちよすぎて…動けなくなっちゃった…はぁ…はぁ…セックス…凄すぎる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+はぁ…はぁ…はぁ…
+うっ…うっ…うっ…
+
+<ShowPicture: 1, gc_li3.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あらるりちゃんエッチねぇ♡今度はママもおまんこで
+したいなぁ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ねぇ彼氏君♡私ともしましょ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ちょっと...みんな勝手すぎるんだから...
+もぉう...みんな私の彼氏寝取りまくって...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あらまぁいいじゃない♡それくらい♡
+それじゃあ...早速...
+
+<ShowPicture: 1, gc_li3.2, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んああぁん...あんっ…ああああぁん...
+ひゃあんっ！あぁんっ！ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃあんっ！…あんっ！…あの！…あんっ！…きたぁ…おちんぽ…きたぁ…
+…はいっちゃった…おまんこに大きなポコちん…入ってきたぁ…
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+いやぁんっ♡ひゃんっ♡あんっ！
+ひゃあぁんっ！いやぁんっ！…んっ…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃんっ！あっ…あっ…あっ…ひゃあぁんっ！
+ひゃあぁん...んっ...んっ...んっ...ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+んっ...あんっ！ああぁんっ♡
+あぁんっ！あああぁんっ！…いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+そこ好き！…もっとついてぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+このおちんぽ…あんっ！…どんどん良くなってく…
+このおちんぽ…やばすぎ…気持ちいい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+いやあぁんっ♡ああぁんっ♡ひゃあぁんっ♡
+あああぁんっ！…ひゃあぁんっ！んっ…んっ…
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ！あんっ！うっ…うっ…うっ…んあっ！…
+ああああぁんっ！ああああぁん...ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+そこ好き！…もっとついてぇ！
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ…ああああぁん!あぁん♡
+あああぁんっ！…いやああぁんっ！んっ…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+そんなにされたらっ…あぁんっ！…おかしくなっちゃう
+…ヤバい…ちんぽ…すごい…
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あっ♡あんっ…ひゃあんっ！
+ひゃあん…あぁんっ！ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+もっとして！…それ好きなのぉ！
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あぁんっ！ひゃあぁんっ！んっ…あぁんっ！
+あぁんっ…あんっ！うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃんっ！あんっ♡いやぁんっ！
+あんっ…ひゃあんっ！ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+いやあぁんっ♡んっ...あんっ♡
+あああぁんっ！…あぁんっ！んあっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+うっ...うっ...うっ...あんっ…ああああぁんっ！
+あんっ…ひゃあぁん...うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+もっと…激しくしてぇ…
+もっとして！…それ好きなのぉ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ！あんっ！ひゃあぁんっ！んあっ！…
+んああぁんっ！ひゃあん…んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃあぁん...あぁんっ！んっ...んっ...
+ひゃんっ！いやぁんっ！…あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃあぁん...いやぁんっ♡あんっ…
+ひゃんっ！あんっ！あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+うっ…うっ…うっ…んっ…んっ…あぁんっ！
+ひゃあぁん...あっ♡ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+ひゃあん…ひゃあんっ♡ひゃあぁん...
+ああああぁんっ！んああぁん...んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…そんなに…されたら…あん
+…もっと無理矢理犯してー！
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あんっ！…もうイッちゃう…
+イき…そう…ひゃああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+あっ...んっ...ああぁんっ♡
+あっ…あっ…あっ…ひゃああぁんっ！…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+…イクっ！イクっ！イクっ！あんっ！あんっ！…いくぅっ！…ああああああぁんっ！
+…イクっ！イクっ！イクっ！ああああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+おまんこから精液溢れ出てる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか母>
+はぁ…はぁ…はぁ…
+んんんっ…ん…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 000_school, 25, 100, 0>
+
+<ShowPicture: 1, bk_living, Scale[100][100]>
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+彼氏君セックスしてる時の顔すっごくエッチで良かったよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ねぇねぇ♡こんな妹とは別れて、私と付き合わない？
+彼氏君は年上の方が好きでしょ？
+
+<ShowPicture: 1, gl_r.ruri1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おい！誘惑するな！
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+ふふっ♡でも私たち連絡先も交換しちゃったし、
+毎日連絡するから、いつ気が変わってもおかしくないよ♡
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+ライバルはるりだけじゃないよ？
+私も毎日彼氏君を口説いちゃうから♡
+
+<ShowPicture: 2, t_ri.h1a, Scale[100][100]>
+もぉう...最悪...オタくん！早く帰ろ！
+
+<ShowPicture: 2, t_r.h1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: るり>
+じゃあね♡彼氏君♡今日また連絡するね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: ひなた>
+エッチな動画送るから待っててね
+
+<ShowPicture: 1, bk_road1, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ごめんね...オタくん。ウチの家族ヤバくて
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ううん。そんなことないよ。みんないい人だったし。
+今日はすごく楽しかったよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そっか。それはよかった。それじゃあ帰り道気を付けてね♡
+また明日ね。オタくん♡
+
+<CE: 1>

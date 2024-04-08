@@ -1,0 +1,87 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+お疲れ様です、勇者様。
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+勇者様たちのおかげで、運営から解放されました。
+このカジノの責任者として、今回の件に関して
+今からお礼をさせて頂いてもよいでしょうか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+お礼ですか！？そんな…悪いですよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+いえ。ここはしっかりと感謝を形で示したいです。
+それに、サキュバスとの戦闘で皆様方はお疲れのように見えます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+まぁ…確かにそうだよね…サキュバスと戦ったあと、
+そのまま街を行ったり来たりして、かなり疲れたよね
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ん～…もも体力の限界かもぉ…
+早くオタくんのおちんぽ、
+もものドスケベおまんこに注入してぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+もう！ももちゃんったら！
+でも、私も少し疲れたかも。
+魔力の補給はちょっとしたいかな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+実は、今からハーレム乱交パーティーを開いて、
+勇者様たちをおもてなししようと思っているのですが
+よろしいでしょうか？
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ハーレム乱交パーティーですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+はい。奥のVIPルームに、このカジノにいる
+最高級バニーガールを手配させて頂きます。
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+そこで、今からバニーガールと
+ハーレム乱交パーティーを開かせて頂きたいと
+思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そんな...いいんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+はい。勇者様たちの疲れを癒すために、
+バニーガール達が精一杯エッチなおもてなしを
+しますので、そこで疲れを癒しください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+やったぁー！もも大賛成！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+なんか、前にもこんなことあったよね？
+あの時はナースとハーレムパーティーだったっけ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そうだね！せっかく用意してもらったんだし、
+みんなでエッチなパーティーしようよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっ…そうだね…
+バニーガール達とハーレムパーティー…
+楽しみすぎる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+それでは準備の方が整いましたので、
+VIPルームへお進み下さい。
+
+<CE: 3>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>

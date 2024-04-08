@@ -1,0 +1,148 @@
+<ShowPicture: 1, sv1a, Scale[100][100]>
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃんっ…あっ…あぁんっ！んっ…
+ひゃあっ…んっ…うおおっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+...ぐあぁっ...
+...きっ...貴様...こんなもので...この私がっ！？
+
+<PlaySE: sv_1a, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ああぁっ！んんっ！ぐおぉあっ！
+ああぁんっ！ああぁんっ…ひゃあんっ！…あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…うごごごご！
+…ぐはっ…ぐおおぉ！…あああぁんっ！あんっ！
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+これが勇者の力...体に全く力が入らない...
+うあああああぁっ！？これ以上は...こんなにされたら...
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+んっ…んっ…ひゃんっ！うおおっ…
+ぐっ…ぐっ…ひゃんっ…ひゃあんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+…ぐあぁっ…ひゃあああああぁんっ！
+…やめろっ！やめてくれっ！
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+頼む...この肉棒を抜いてくれ...
+このまま腰を振り続けられたら...ひゃあああぁんっ！
+
+<ShowPicture: 1, sv1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あんっ！あんっ！あぁんっ！あんっ！
+ひゃあんっ…あんっ…あんっ！
+
+<PlaySE: sv_1b, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃあぁんっ！いやぁんっ！いやっ…
+ああぁっ！うぐおぉっ！おっ！おぉっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+力がどんどん抜けていく...ダメだ...
+やめてくれっ！魔力が...消えていくっ！
+
+<PlaySE: sv_1a, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ぐっ…ぐっ…いやっ…あんっ！
+ひゃんっ！ひゃあっ…んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+おまんこがっ！おまんこがおかしくなっちゃう！
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あぁんっ！あんっ！ああぁんっ…
+ぐうぅっ！ぐぅおっ！ぐおぉあっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+そんなにおまんこガンガン突かれたら頭おかしくなっちゃう！
+ひゃああああぁんっ！
+
+<PlaySE: sv_1a, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃんっ…ああぁんっ…あぁんっ…
+ひゃあああぁんっ…ひゃんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+魔力が無くなるだけじゃない...ああぁんっ！
+体までこの勇者の奴隷になってしまうっ...！
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃあああぁんっ…ひゃんっ…あぁんっ！
+ぐおぉあっ！うぐおぉっ！うおぉあっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+勇者のおちんぽの...虜になってしまうっ！
+あああぁんっ！これだめぇっ！きもちよすぎるぅっ！
+
+<PlaySE: sv_1c, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あああああぁんっ！ひゃあぁんっ！
+あんっ！あんっ！あああぁんっ！…ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+それらめぇっ！気持ちよすぎるぅっ！
+こんなにおまんこいじめられたらっ...
+勇者専用のおまんこ奴隷になっちゃうぅ♡
+
+<PlaySE: sv_1a, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃああああぁんっ！きもちよすぎるぅっ！
+ああああぁんっ！あんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+よし！このまま中に出すぞ！
+
+<PlaySE: sv_1z, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+中出しだとっ！？ダメだ！それだけはやめてくれっ！
+そんなことされたらっ！二度と魔力を使えなくなってしまうっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ああぁんっ！それどころか、勇者の性奴隷になってしまう！
+勇者専用のご都合メス穴オナホールになっちゃうぅ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ひゃあああぁんっ！中出しだけはダメだ！
+何でもするからやめてくれっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うおおぉっ！出すぞ！うおおぉ！
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ぐおおおおお！…はぁ…はぁ…はぁ…
+んおっ！…んおおおお…ああああぁんっ！…はぁ…はぁ…はぁ…
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+んんんっ…ん…うっ…うっ…うっ…はぁ…はぁ…はぁ…
+うっ…うっ…うっ…はぁ…はぁ…おっ…おっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あひゃっ！おっ...おっ...おっ...

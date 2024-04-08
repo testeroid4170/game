@@ -1,0 +1,36 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: 002_crysis, 25, 100, 0>
+
+<CE: 3>
+
+<ShowPicture: 1, t_sv3c, Scale[100][100]>
+
+<ShowPicture: 1, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+おい！サキュバス！さっきはよくも騙してくれたな！
+
+<ShowPicture: 1, t_sv3d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+なっ…お前たち…どうやってあそこから
+脱出してきたんだ…
+
+<ShowPicture: 1, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+へっへーん！
+もも達はすごいからあんな扉くらい
+簡単に壊せちゃうんだ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ちっ…マヌケな連中だと思って侮っていたか…
+分かった…いいだろう…
+直々に私が相手をしてやる！
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 001_battle, 25, 100, 0>

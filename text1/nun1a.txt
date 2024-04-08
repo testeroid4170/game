@@ -1,0 +1,76 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub3d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…あなたがマリアさんですか？
+
+<ShowPicture: 1, t_sub3a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あなた方は…勇者様ですね…お待ちしていました。
+私がこの教会を管理しているマリアです。
+よろしくお願い致します。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+僕達、この街で起きた誘拐事件について調べているんです。
+何か知りませんか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。3日のことなのですが、この街で誘拐事件がありました。
+場所はこの街の民家なのですが、
+急にその家の娘さんがいなくなってしまい、
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+それ以降調査をしているのですが、
+何も証拠が見つからないのです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど。この情報はこの街の人は
+みんな知っているんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。皆知っています。ですので、
+最近は一人の時間を作らないよう、
+集団で生活するようにしています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…他に変わったことってありますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい…実は2年程前から、食料の盗難事件が多発
+しているんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+食料の？もっと詳しく聞かせてください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。2年前から夜中や早朝に食料店での盗難報告が
+毎日のようにあがっています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ですが、人の犯行なのか、鳥などの動物の犯行なのかが
+分からないんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+目撃者によると、羽の生えた大型の動物の
+ようだったとのことですが、信ぴょう性が低いです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…大型の動物が食料を盗んでいく…ですか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。これに関しましては、本当にただの動物の
+仕業かもしれません。
+ですので、参考程度にして頂けると幸いです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+分かりました。それでは
+その誘拐事件があった場所を教えて頂けますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。それでは、案内しますね。
+
+<CE: 1>

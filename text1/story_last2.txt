@@ -1,0 +1,82 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub_full, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+皆様！よくぞご無事で！
+皆様のご活躍は噂で聞いておりました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あっ…ありがとうございます…それにしても、
+皆さんがこの村に一度に集まって…どうしたんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+実は、勇者様たちが大魔族の退治に行ったと聞いたので、
+この村でみんなして勇者様を待とうと決めたのです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…それでみなさんがいるんですね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。今まで長い旅を本当にお疲れ様でした。
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+勇者様たちのおかげで、この世界は救われました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そんな…世界だなんて、大袈裟ですよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: カミラ>
+いえ。勇者様たちは言葉通り世界をお救いになられました。
+本当に感謝してもしきれないです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ありがとうございます。
+でも、これは僕達だけでやったことでは無いんです。
+みんなが協力してくれたからこそ、出来たことなんです！
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+そんな、私たちは手助けをしただけです。
+この世界が平和になったのは勇者様たちのおかげですよ。
+
+<ShowPicture: 1, t_sub1a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そう言われると照れるね。
+
+<ShowPicture: 2, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+うん。世界だなんてまだ実感できないけど、
+すごい達成感はあるよね！
+
+<ShowPicture: 2, t_aoi2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん。私もすごく色々な体験ができて新鮮だったなぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…エレナさん…帰還の魔法陣を手に入れたので
+元の世界に帰ろうと思っているんです。
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+なるほど…もう帰ってしまわれるのですね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。皆さんには大変お世話になりました。
+元の世界に戻っても、皆さんとこの世界のことは
+決して忘れません。本当にありがとうございました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。私達も勇者様たちのことを決して忘れません。
+本当にありがとうございました！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+それでは、帰還しますね。本当にお世話になりました。
+
+<CE: 1>
+

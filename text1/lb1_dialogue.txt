@@ -1,0 +1,79 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: 000_school, 25, 100, 0>
+
+<CE: 3>
+
+<ShowPicture: 1, bk_school2, Scale[100][100]>
+
+<ShowPicture: 2, t_full1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+わわっ！……これって…元の世界…だよね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。学校の保健室の前だね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+良かったぁ…元の世界に無事もどれて…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あれっ！でも、時間ってどうなってるの？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+今は…えっ！？ウチらが異世界に飛ばされる前の時間と同じだよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+えっ！？すごっ！？
+ももたち浦島太郎みたいになっちゃうのかと思ったよ。
+
+<ShowPicture: 2, t_full1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっか、じゃあ元通りなんだね。  
+
+<WindowPosition: Bottom><Background: Transparent><Name: >
+キーンコーンカーンコーン
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あっ！授業始まっちゃうね。そろそろ行こっか。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+なんだか授業受けるのが久しぶりすぎて感覚がおかしくなっちゃうね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うん。さっきまで異世界で戦ってたんだもんね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。僕もまだ実感が湧かないよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+オタくん。オタくんって今日の放課後とか暇？
+そういえばウチってオタくんと放課後に遊んだことないよね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ…今日は確か予定とかは無かったはずだけど…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+よかった！それじゃあ、今日の放課後、ウチに来ない？
+ウチで、いっ～ぱいエッチなことしようね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ！りりか抜け駆けだぁ～ずるいぞぉ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いいだろ、別に。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+む～。分かったよ。じゃあ、今度はももの番ね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっか。それじゃあ私は最後だね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それじゃあオタくん。早速ウチに行こっか♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。
+
+<CE: 1>

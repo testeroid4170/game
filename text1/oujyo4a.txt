@@ -1,0 +1,579 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あら、皆様方。わざわざ王宮までいらして頂き
+大変ありがとうございます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+いえ。それよりも昨日のことで相談があるんですけど
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。このことについてはまだ話さなければいけないことが
+ありますよね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。昨日サキュバスが言ってたように他の街にも
+サキュバスがいるようなんですが、心当たりはありますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+心当たりですか…実は今はどの街もサキュバスに対して警戒して捜査
+しているのですがそれでも正体を掴めないでいるのが現状なんです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…そうなんですか…
+ではこの近くにある街を教えて頂けますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。村の東にある関所を通りますとキューアという街があります。
+そこにもしかしたら、サキュバスが潜んでいるかもしれません。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…分かりました。では、僕達は次の街に行きたいと思います。
+
+<ShowPicture: 1, t_sub2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+そっ…そんなっ！…もう行ってしまわれるのですか！？
+まだ何もお礼をしていないというのに…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+いえ。お礼なんて滅相もありませんよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+そっ…そんな訳には…それに…もう少し…勇者様と一緒に……
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ…どうしたんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いっ…いえ！…では、せめてものお礼としてこの街の
+国宝をお渡しさせてください！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？国宝！？そんな大切なもの貰えないですよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いえ。実はこの国宝は私たちが持っていても意味のない物なのです。
+遥か昔から、この国宝は冒険者が苦難に直面した時に
+効果を発揮すると言われているんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…それではお言葉に甘えて頂きます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。勇者様方に使っていただけて嬉しい限りです。
+
+<ShowPicture: 1, t_sub2c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あの…あと…もう一つプレゼントなんですけど…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+もう一つですか？そんなに悪いですよ
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい…あの…ここで私の体を勇者様に貰って頂きたいのです…♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？…王女様の体を！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい…昨日の勇者様の性行為を見ていたら…
+私…発情してきてしまいまして…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+それで…勇者様がよろしければ…
+私の体を好きにして貰って構いません…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+おっ…王女様の体を……
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えぇっ！？王女様…本気ですか！？
+
+<ShowPicture: 1, t_sub2f, Scale[100][100]>
+
+<ShowPicture: 2, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+まぁ…あんなエッチなの目の前で見せつけられちゃったら
+、そりゃあそうなるよねぇ
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+英雄色を好むといいます…勇者様もエッチなことが
+お好きなんじゃないかと思いまして…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ…それは…もちろん大好きですけど…本当にいいんですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい♡勇者様のお好きなように私の体をお使いください♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあ♡オタくん王女様ともエッチしちゃうのぉ？
+ほんとにスケベだね♡
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もぉう…次から次へと新しい女の人に手を出して…
+後でウチらの相手もちゃんとしてよね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+うっ…うん。もちろんだよ。
+じゃあ、ちょっと…王女様と一緒にエッチしてくるね。
+
+<ShowPicture: 2, t_aoi2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん…私たちはここで待ってるから…楽しんできてね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(こんな美人の王女様とエッチが...すごい...)
+はい。それじゃあ早速エッチしましょうか...
+
+<CE: 1>
+
+<CE: 3>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, sb_o1.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んああぁんっ！あぁんっ！ああぁん…
+ひゃあんっ！あっ♡うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あぁんっ…いやぁんっ♡ああぁんっ♡
+あっ…あっ…あっ…あぁんっ！ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いやぁんっ！…んおおおんっ！ひゃんっ！
+ひゃあぁん...うっ...うっ...うっ...ああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ひゃあぁんっ♡あっ...んっ...
+んああぁんっ！…ひゃあぁんっ！いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+気持ちいい…あんっ…これ…すごい
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+奥まで…あんっ！…勇者様のおちんぽが
+
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あっ...いやぁんっ！ああぁんっ♡
+うっ…うっ…うっ…ひゃあぁんっ！あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ…あぁんっ！ひゃああぁんっ！…あぁんっ！
+あんっ…んああぁんっ！んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+気持ちいい…あんっ…これ…最高…
+あぁんっ！…激しいの…好き…
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あんっ！あぁんっ…ひゃあん…
+うっ…うっ…うっ…あぁんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+このおちんぽ…あんっ！…どんどん良くなってく…
+…奥まで入ってる……
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ♡んっ♡あっ♡うっ...うっ...うっ...
+ひゃあぁんっ！んっ...んっ...ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あぁんっ！…激しいの…好き…
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んああぁんっ！…いやぁんっ！…あんっ！あんっ！
+あぁんっ！んっ♡んっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いやあぁんっ♡いやぁんっ！あんっ♡
+んっ...んっ...あんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あっ...ひゃあぁんっ♡あんっ！
+んおおおんっ！あっ…あっ…あっ…うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んああぁんっ！あぁんっ！ひゃあぁんっ！
+感じるぅ♡あぁんっ…ひゃあんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+うっ…うっ…うっ…んあっ！…あああぁんっ！…
+んっ...んっ...んっ...ああああぁんっ！ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ああぁんっ♡らめぇ♡んああぁんっ！
+うっ…うっ…うっ…んああぁんっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ...んっ...ひゃあぁんっ！ああぁんっ！
+ひゃあぁんっ♡んっ...あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ…んっ…いやああぁんっ！んああぁんっ！…
+あっ♡んっ...んっ...んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ひゃあぁんっ！あぁんっ！んっ...んっ...んっ...
+うっ...うっ...うっ...んああぁん...んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あんっ！…もうイッちゃう…
+あんっ！…もうイッちゃう…
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ...ひゃんっ！ひゃあぁんっ♡
+んおおおんっ！うっ…うっ…うっ…んあっ！…
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+…イクっ！イクっ！…いくぅっ！…あぁんっ！
+…イクっ！イクっ！…いくぅっ！…ひゃああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はぁ…はぁ…
+はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あの...勇者様♡今度は私が勇者様に跨らせて
+頂きますね♡
+
+<ShowPicture: 1, sb_o2.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: momo_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あぁんっ…んああぁんっ！ひゃあん…
+ひゃあんっ♡んっ♡んっ♡感じるぅ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+…入って…きたぁ………あんっ！
+…すごい…ちんぽ…きたぁ…
+
+<StopSE>
+
+<PlaySE: momo_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んああぁん...ああああぁん...んああぁんっ！
+ひゃあぁんっ♡あんっ♡いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んおおおんっ！あっ…あっ…あっ…んああぁんっ！…
+ひゃあぁん...ひゃあんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: momo_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あっ♡もっとぉ♡ああああぁんっ！
+いやぁんっ！…んあっ！…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+セックス…気持ちよすぎ…あぁんっ！…もっとしてぇ！
+突いて…あんっ！…もっと突いてー！…
+
+<StopSE>
+
+<PlaySE: momo_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+そこ…気持ちよすぎ…
+おまんこ…もっとついてー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+うっ...うっ...うっ...んっ...んっ...ひゃあぁんっ！
+ひゃんっ！ひゃあぁんっ！んっ…あぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ああぁんっ♡んっ...ひゃんっ！
+あっ♡んああぁん...んっ♡んっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+…奥まで入ってる……
+…クリトリスも…あんっ！…触って…
+
+<StopSE>
+
+<PlaySE: momo_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んおおおんっ！んあっ！…あんっ！あんっ！
+んっ...んっ...ああああぁん...ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+…そんなに…されたら…あん
+もっとして！…それ好きなのぉ！
+
+<StopSE>
+
+<PlaySE: momo_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んおおおんっ！んあっ！…ひゃんっ！
+あんっ！いやあぁんっ♡あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+そこ…すごくいい…
+…この体位…あんっ！…大好き…
+
+<StopSE>
+
+<PlaySE: momo_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いやぁんっ！…うっ…うっ…うっ…ひゃんっ！
+らめぇ♡ああぁんっ♡んああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ...ひゃんっ！あっ...
+ひゃあぁん...あっ♡あんっ♡
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ああぁんっ♡あんっ！ああああぁん!
+あんっ♡ひゃあぁんっ♡んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ひゃあんっ！ああああぁん...んっ...んっ...んっ...
+あぁん♡んああぁん...んああぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+そこ…すごくいい…
+ちんぽ…あんっ！…大好き…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ひゃああぁんっ！…いやぁんっ！…ひゃんっ！
+ああぁんっ！んっ...んっ...ひゃあん…
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あんっ！いやぁんっ！あんっ♡
+ひゃあぁん...らめぇ♡ひゃあんっ♡
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ひゃあんっ！ひゃあん…いやぁんっ♡
+あんっ！ああぁんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んあっ！…んおおおんっ！あんっ！あんっ！
+ああああぁん!あぁんっ…んっ...んっ...
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いやぁんっ！ああぁんっ♡あんっ！
+ひゃあぁんっ！ああああぁん...あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+激しいっ…あんっ！…気持ちよすぎて…おかしくなっちゃう！
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+
+<StopSE>
+
+<PlaySE: momo_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+イき…そう…ひゃああぁんっ！
+もうだめ……イっちゃいそう…
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+あんっ！うっ...うっ...うっ...ああぁん…
+ひゃんっ♡んああぁんっ！あぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+…イクっ！イクっ！…いくぅっ！…あぁんっ！
+…イクっ！イクっ！種付けしてぇー！ひゃああぁんっ！
+
+<StopSE>
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+うっ…うっ…うっ…
+はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+んっ…はぁ…はぁ…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はぁ…はぁ…
+んっ…はぁ…はぁ…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 02_town, 25, 100, 0>
+
+<ShowPicture: 1, t_sub2c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はぁ…はぁ…はぁ…凄かったです…もう足がガクガクして動けないです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はぁ…はぁ…はぁ…僕も激しくしすぎて疲れました…
+
+<ShowPicture: 1, t_sub2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+勇者様がこの街を出られる前にこうやってエッチができて、本当に良かったです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。僕も王女様とエッチができるなんて夢のようですよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+私はいつも王宮にいますので、私とエッチがしたくなったら、
+またいつでも遊びにいらしてください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+わっ…分かりました！また遊びに来ますね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。ありがとうございます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+それでは僕はもう出かけます。お世話になりました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+こちらこそ、この度は大変お世話になりました。またいつでもいらして下さい。
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あれ？オタくん？もういいの？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+オタくぅん♡王女様とのＨはどうだった？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+もう！二人ともやめなって！オタくん困ってるよ。
+それに、今こうしている間にもサキュバスに襲われている人がいる
+かもしれないんだから、早く行かなきゃ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっ…そうだね…あおいちゃんの言う通りだね…それじゃあ出かけようか！
+
+<CE: 1>

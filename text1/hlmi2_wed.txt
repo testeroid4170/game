@@ -1,0 +1,538 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<CE: 3>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+勇者様！実はこの村で勇者様と結婚をしたいという
+女性がたくさんいるのですが、これから結婚式に
+参加して頂けませんか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ええっ！？結婚ですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はい。一夫多妻制です。
+どうでしょう？結婚して頂けますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+それでは、これより勇者様と私たち30人の結婚式を始めます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+勇者様、いえ旦那様。私たちをお嫁にしてくださり、ありがとうございます♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+私たちは今から勇者様の妻ですので、この体を好きなようにしてくださいね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+勇者様♡おっぱいはこっちにもありますよ♡
+いっぱい触ってくださいね♡
+
+<ShowPicture: 1, hl_wd3.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+らめぇ♡あんっ♡ひゃあん…
+ああぁん…あんっ！あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…勇者様ぁ…もっと強く揉んでください…
+…勇者さま…もっと揉んでくださぁい♡
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+私たちのおっぱいで今日は存分に楽しんでいってくださいね♡
+もぉう♡さっきからおっぱい見過ぎですよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んっ...ひゃあぁんっ♡ひゃんっ！
+ひゃんっ！ひゃああぁんっ！…んおおおんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ああぁんっ！んっ♡んっ♡ひゃあぁん...
+あんっ♡んっ...いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あっ…あっ…あっ…ひゃあぁんっ！あぁんっ！
+んああぁん...ひゃあんっ♡もっとぉ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…勇者様はおっぱいが大好きなんですね♡
+乳首...すごくかんじちゃうのぉ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んっ...ひゃあぁんっ♡ああぁんっ♡
+んああぁん...あんっ♡ひゃあぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+私のおっぱいデカ乳で、た～くさん楽しんでくださいね♡
+勇者様はおっぱいが本当に大好きなんですね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あぁんっ！あんっ！あんっ！あああぁんっ！…
+あんっ…ああぁん…ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやあぁんっ♡んっ...ひゃあぁんっ♡
+ひゃああぁんっ！…んあっ！…んっ…んっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+もぉう♡勇者様ったらおっぱいばっかり見て♡
+私のおっぱいデカ乳で、た～くさん楽しんでくださいね♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ！あんっ！あっ…あっ…あっ…うっ…うっ…うっ…
+あっ...あんっ！あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃあぁん...んっ...んっ...ああああぁんっ！
+あぁんっ…あっ♡ああぁん…
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…勇者様ぁ…もっと強く揉んでください…
+…おっぱいばっかり…そんな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んっ...あんっ！あっ...
+もっとぉ♡あっ♡感じるぅ♡
+
+<ShowPicture: 1, hl_wd1.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃあんっ！んああぁんっ！あんっ！
+ああああぁん!らめぇ♡ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ♡ひゃあんっ♡ああぁんっ！
+んっ…あぁんっ！ひゃあぁんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んっ…んっ…んあっ！…ひゃあぁんっ！
+ひゃあぁんっ！んっ...んっ...ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ！ひゃあぁんっ♡あんっ♡
+んあっ！…ひゃんっ！うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+もっと...して欲しいです...
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+もっと...して欲しいです...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ！いやあぁんっ♡ああぁんっ♡
+あああぁんっ！…ひゃんっ！あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃんっ！ひゃあぁんっ！んああぁんっ！…
+あんっ！あんっ…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+す...ごい...気持ちいい
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ああぁん…ああぁんっ♡ひゃあん…
+あぁんっ！あっ…あっ…あっ…ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+Gスポットが刺激されて...ああぁんっ♡
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んああぁんっ！ひゃあんっ！ああああぁん!
+ああああぁん...ああぁんっ！んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+そこ好き！…もっとついてぇ！
+感じるっ…そこ感じるっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+おまんこぉ...おかしくなっちゃう...      気持ちよすぎて...おかしくなっちゃう...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃんっ！あんっ！あんっ！んおおおんっ！
+ひゃあん…ああああぁん...ああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃんっ！あんっ♡んっ...
+うっ…うっ…うっ…ひゃああぁんっ！…いやああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+そこ...すごく気持ちいいです...
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+そこぉ...すごく感じるのぉ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃあぁんっ！んっ♡んっ♡あぁん♡
+ひゃあぁん...うっ...うっ...うっ...んああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ！…もうイッちゃう…
+あんっ！…もうイッちゃう…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ♡いやあぁんっ♡あんっ！
+ひゃんっ！んっ…んっ…んおおおんっ！
+
+<StopSE>
+
+<PlaySE: sub2_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+イっちゃう！イっちゃう！種付けしてぇー！ひゃああぁんっ！
+…イクっ！イクっ！…ああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はぁ…はぁ…はぁ…
+おっ…おっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いっぱい出ましたね♡勇者様♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んんんっ…ん…
+はぁ…はぁ…
+
+<ShowPicture: 1, hl_wd4.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃあんっ♡んっ...んっ...んっ...いやぁんっ♡
+うっ...うっ...うっ...んっ...んっ...んっ...ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…気持ちいい…それ…すごくいいです…
+もっと乳首つねってほしいです♡
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+もぉう♡さっきからおっぱい見過ぎですよ♡
+もぉう♡さっきからおっぱい見過ぎですよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ！あんっ！いやあぁんっ♡
+んっ…あぁんっ！うっ…うっ…うっ…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ああぁん…あぁん♡あんっ♡
+いやぁんっ！あんっ♡ああぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んあっ！…いやぁんっ！…ひゃあぁんっ！
+ああああぁんっ！ああああぁん!うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…勇者様ぁ…もっと強く揉んでください…
+…気持ちいい…それ…すごくいいです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ！ひゃあぁんっ♡んっ...
+あんっ！んああぁん...あんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+勇者様は大きいおっぱいが大好きなんですね♡
+もぉう♡勇者様ったらおっぱいばっかり見て♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んっ…あぁんっ！んおおおんっ！ひゃああぁんっ！…
+あぁんっ…ああぁんっ！んああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ！んっ...ああぁんっ♡
+ひゃんっ！いやぁんっ！…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+今日は私の爆乳で楽しんでいって下さいね♡
+これからこの爆乳おっぱいで、楽しいことしましょうね♡
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あっ…あっ…あっ…あんっ！あんっ！いやぁんっ！…
+ひゃんっ！ああぁんっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ…うっ...うっ...うっ...あぁんっ…
+ひゃあんっ！あぁんっ…あんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…そんなに強く…揉まれたら… 
+…気持ちいい…それ…すごくいいです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃんっ！あんっ♡あんっ！
+ああああぁんっ！ひゃあぁん...ああぁんっ♡
+
+<ShowPicture: 1, hl_wd2.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あぁんっ！んっ...んっ...んっ...ああああぁん...
+ひゃあぁんっ！感じるぅ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…きた…ちんぽ……あんっ！…おまんこに入ってきたぁ…
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃあんっ♡あぁんっ…ああぁんっ！
+あんっ！あんっ！ひゃあぁんっ！んああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+うっ…うっ…うっ…あああぁんっ！…あぁんっ！
+ああぁん…あんっ…ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ひゃんっ！んっ...いやぁんっ！
+あっ…あっ…あっ…んおおおんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+そこぉ...すごく感じるのぉ...
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+こんなの...頭おかしくなっちゃう...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ！あっ...あんっ！
+あんっ！あんっ！ひゃああぁんっ！…ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ！…うっ…うっ…うっ…あっ…あっ…あっ…
+あぁんっ！ひゃあんっ！ああああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+おまんこぉ...おかしくなっちゃう...      気持ちよすぎて...おかしくなっちゃう...
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あっ♡あんっ！ひゃあんっ♡
+あっ…あっ…あっ…いやああぁんっ！んあっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+性感帯がこすられて...ああぁんっ♡
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あぁんっ…ひゃあぁんっ！もっとぉ♡
+ああああぁんっ！ひゃあんっ！んああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ガンガン突かれるの好き…
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+性感帯がこすられて...ああぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ！あんっ！ひゃああぁんっ！…んっ…あぁんっ！
+ひゃあぁんっ！あんっ…あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ！あんっ！あっ...
+んっ…あぁんっ！んあっ！…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+はぁ...はぁ...もっとしてほしいです...
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+す...ごい...気持ちいい
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いやぁんっ♡あぁんっ…ひゃあんっ♡
+ひゃあん…んっ...んっ...ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+いっ…イッちゃう…らめぇ…
+あんっ！…もうイッちゃう…
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+あんっ♡んっ...あんっ！
+ひゃんっ！あああぁんっ！…んああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+…イクっ！イクっ！種付けしてぇー！ひゃああぁんっ！
+…イクっ！イクっ！…いくぅっ！…あぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んんんっ…ん…
+はぁ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+すごくいっぱい射精しましたね♡勇者様♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+んっ…はぁ…はぁ…
+おっ…おっ…
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>

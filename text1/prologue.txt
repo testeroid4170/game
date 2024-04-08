@@ -1,0 +1,355 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: 000_school, 25, 100, 0>
+
+<ShowPicture: 1, bk_school, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+私立花園高校。今年から共学になった元女子校である。
+僕は今年の春からこの学校に入学した。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そして入学して1番驚いたこととしては、
+女子の数がとてつもなく多いことだ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+僕のクラスには生徒が40人いて、男子がなんと3人しかいない。
+しかも、そのうちの2人は女子だらけの空気に耐えられなくなり、
+不登校になった。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうして、このクラスには男子が僕一人しか居なくなってしまった。
+女子37人に対して、男は僕一人だけ…
+なんだか、仲間外れ感がすごい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はぁ…それでも学校には行かなきゃ行けないよなぁ…
+これからこのクラスでやって行けるのかな…
+
+<ShowPicture: 1, bk_school2, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おっ！オタくん♡おは！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あっ…おはよう…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+どうしたの？元気ないじゃん
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん…だってクラスの男子はボクだけになっちゃって、何となく疎外感が…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そんなことないって！みんなオタくんのことカッコイイって言ってるよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(この子は七瀬りりかちゃん。ギャルでクラスのカースト上位の女の子。
+オタクに優しいギャルで、僕はオタくんって呼ばれている。)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+僕がカッコイイなんて…そんなこと言われたことないよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そうかな？まぁ、ウチらって小学校からずっと女子校育ちで
+急に共学になったから、男の子に慣れてないんだよね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+だから、オタくんみたいな優しい子の方が人気なのかも。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ！？そうなの？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うん。知らないかもだけど、ウチのクラスの女子は結構
+オタくんのこと狙ってる子多いよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ほっ…本当かなぁ…
+
+<ShowPicture: 2, t_momo3a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+2人で何話してるの～？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あっ！ももちゃん。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+オタくん。おはよう～。今日の朝はオナニーしてきたの？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？
+
+<ShowPicture: 2, t_r.m1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おい、もも！オタくんに変な質問するなよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+えへへ。つい、からかいたくなっちゃって。
+
+<ShowPicture: 2, t_r.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(この子は姫川ももちゃん。何だか、すごくエッチな性格で、
+口を開けば僕に下ネタを言ってくる。)
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+オタくん。ごめんね。オタくんと話してると興奮して
+乳首勃起しちゃうから、ついエッチなこと言っちゃうの。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ええっ！？ちっ…乳首…
+
+<ShowPicture: 2, t_r.m1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おい！もも！またオタくんに下ネタ言うなよ！
+誘ってるのバレバレだぞ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+えへへ！バレちゃった？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+でも、このクラスの子は大体みんなオタくんの
+ちんぽ舐め回したいって思ってるんじゃない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？…そんなことを……
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+もも、だからやめろって…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ごめんね。オタくん。ちょっと引いちゃったかな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あっ…あの……
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ん？どうかした？
+もものおっぱいに何かついてる？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それを言うなら顔だろ！もも！
+
+<ShowPicture: 2, t_r.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…ももちゃん…スカートが…めくれて…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ！これ？
+実はね、さっき教室に入る前に丈を短くしてきたんだ。
+オタくんに今日のもものパンツ見て欲しくって。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？わっ…わざとだったの…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+うん、そうだよ。
+それでどうかな？今日のもものパンツ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+さっきおしっこしてわざと拭かなかったから、
+ちょっと濡れてるでしょ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？
+
+<ShowPicture: 2, t_r.m1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おい！本当にいい加減にしろって！
+オタくん困ってるだろ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+そんなこと言って、りりかも教室に入る前にブラ外して
+勃起乳首見せつけてるのバレバレだよ？
+パンツも丸見えだし
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それは、ももだってそうだろ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あはは。まぁそうだけどね。
+
+<ShowPicture: 2, t_r.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+でも、クラスの女子はみんなオタくんにエッチなこと
+しようとしてるから気をつけてね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+この前なんか、オタくんの机に
+ラブレターとパンツ入れようとしてた子居たんだよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あぁ。いたいた。
+あと、放課後にオタくんの椅子に座ってオナニーして、
+マン汁ぶちまけてる子とかいるよな。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ていうか、それ昨日のももじゃん♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？僕の席で！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ごめんごめん。オタくんが普段座ってる席って
+なんか興奮してきちゃって♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+というか、毎日誰かしらオタくんの席でオナニーしてるよね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？僕の席がそんなことに！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+まぁ…本人の前で言うのはどうかと思うけど…確かにそうだね…
+この前なんか、先生もオタくんの机でオナニーしてたし…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ていうか、りりかもこの前してたじゃん。
+
+<ShowPicture: 2, t_r.m1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それ言うなよ！恥ずかしい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？りりかちゃんも！？
+
+<ShowPicture: 2, t_r.m1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+僕が知らない間にこんなことになっていたのか…
+
+<ShowPicture: 2, t_aoi1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+おはようオタくん。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あっ…おはよう。あおいちゃん。
+
+<ShowPicture: 2, t_r.a1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おはよ～。あおい。
+
+<ShowPicture: 2, t_m.a1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あおちゃん、おはよ～
+
+<ShowPicture: 2, t_full1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+どうかしたの？オタくん？
+なんか顔色が悪いよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ…そうかな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+まぁ、オタくんにとっては衝撃の事実だろうし、
+そりゃあ顔色も悪くなるよね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+衝撃の事実って？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+この前、あおいがオタくんの席に座ってオナニーしてたことだよ。
+
+<ShowPicture: 2, t_m.a1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃっ！それ言わないでって言ったじゃん！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ごめんごめん。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+え～、あおちゃんそんなことしてたのぉ？
+真面目なのは普段だけで、裏ではそんなエッチなことしてたんだ～
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+もぉう…二人ともやめてってばぁ…
+
+<ShowPicture: 2, t_m.a1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+(この子は清水あおいちゃん。真面目で優しい女の子。
+でも、そんなエッチなことしてたなんて…本当はエッチな性格なのかも…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あおいも意外とエロいよなぁ～
+今だって、わざと乳首とパンツオタくんに見せびらかしてるし。
+
+<ShowPicture: 2, t_m.a1b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+だっ！…だって…みんなオタくんの前ではこうしてるし、
+私もちょっとはアピールしたかったから…
+
+<ShowPicture: 2, t_m.a1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+まぁ確かに、この学校の生徒って極端に男子との接点が
+無かったから、オタくんみたいな子が人気なんだよな
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+しかも、この学校って先生も女しかいないから、
+先生までオタくんの前じゃエロモード全開だし…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+この前なんか、オタくんだけ先生と
+2人きりで尿検査されてたもんね～
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あれマジでヤバかったよな！
+ウチ、気になりすぎて覗きに行ったら
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+保健の先生が無理やりオタくんを女子トイレに連れ込んで、
+おしっこコップに入れてたもんな！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？りりかちゃん見てたの！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+うん。しかも、先生がお手本とか言って自分のマンコ、
+オタくんに見せつけてたし、
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+尿検査終わったあと、先生がオタくんのおしっこ飲んでたしさ…
+マジでヤバすぎだと思ったわ
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+え～先生うらやましい～
+職権乱用じゃん。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+（あれを見られてたなんて恥ずかしすぎる…
+　なんか、今日は衝撃的なことが多すぎて頭が痛くなってきた…）
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ごめん…僕ちょっと頭が痛くなってきたから、保健室行ってくるね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ！じゃあももが連れてってあげるよ！
+病人1人じゃ危ないでしょ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おい！ももずりぃぞ！
+ウチも行くからな
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+りりかちゃんも？じゃあ私も行こうかな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+美人ギャル3人に看病してもらえるなんて夢のようだな…

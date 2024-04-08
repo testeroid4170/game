@@ -1,0 +1,113 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+もしかして、伝説の…勇者様ですか！？これは…心強いです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの、この街で怪しい人を見ませんでしたか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+怪しい人ですか？…う～ん…怪しい人には心当たりは
+ないのですが、この前不可解な事件が起きたんです。
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+不可解な事件？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+はい。うちの娘が行方不明になってしまったんです。
+娘の部屋から悲鳴が聞こえたので、様子を見に行ったら、
+部屋が血まみれになっていて…娘の姿も無くなっていたんです……
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっ…そんな悲しい事件が……
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+娘さんがそんな目に遭ったら、とても悲しいですよね...
+それにしても何でそんなことが…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+急に女の子が部屋から居なくなるなんて...
+そんなこと普通ないよね...
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あのさ、それって…
+なんか魔族に関係ありそうじゃない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+確かにそうだよね…普通の人がそんなことしないだろうし…
+悲鳴が聞こえて直ぐに部屋に行ったのに、
+もう姿が見えないなんて…魔族にしかできないかも…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+はい…私もそう思って、直ぐに騎士様にお願いして
+捜索して頂いたんですが、まだ進展がなくて…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうなんですか…騎士さんでも魔族の消息は掴めないんですね…
+でも不思議ですよね…そんな事件があったのに、
+街の人はみんな普通に暮らしてるのって…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+確かに…普通そんな事件があったらみんな怖がると思うけど
+街の人からはそんな不安なんて感じられなかったよね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+はい…実は、この事件は口外しないよう騎士様に言われたんです。
+もしこの噂が広まったら街の人達は不安がるだろうからって…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…それで街の人々は普通に暮らしていたのか…
+でも実際にはこんな事件があったなんて…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+はい…これは王国の上層部の方だけに知らされた
+秘密の事件なんです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ！？王国の上層部の人は全員知ってるんですか！？
+……ということは王女様も…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+えっ！？それっておかしくない？
+王女様と話した時はこの事件については何も
+言ってなかったよね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+じゃあ王女様はこの事件のこと知らないってこと？
+王女様が嘘ついてるようにも見えなかったし…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…あなたが相談した騎士ってどんな人だったんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+はい。それは、王女様直属の騎士様です。
+その晩にこの辺りの見回りをしていたので、
+声をかけたんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…その騎士さんにこの事件を公にしないよう
+言われたんですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。そうです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それって…もしかすると、その騎士が魔族なんじゃないの？
+だってこの辺を見回りしてたんだったら、娘さんをさらえるだろうし
+何より秘密にさせたのがおかしいよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+確かに…その騎士が王女様に話さなかったから
+王女様はこの事件のこと知らなかったのかも…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 村の女性>
+あの騎士様が魔族……それだとしたら私は何てことを……
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+確かにそれは怪しいよね…もう一度王宮に行って確かめよう！
+
+<CE: 1>

@@ -1,0 +1,33 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+ようこそ。いらっしゃいませ。
+勇者様たちの噂はこの街までしっかりと伝わっていますよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうなんですね。
+この街で怪しい人や、不可解な事件などはありましたか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+そうですね…この街自体、あまり治安のよい街では
+ありませんので、何かの揉め事などは日常的に
+起こっていますね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…そうなんですね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+はい。この街に訪れる方はレズの方が多いのですが、
+男性の勇者様もこの街の風俗店をご利用できますよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+サキュバスについては、この街を堪能しながら
+ゆっくり探して頂ければなと思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…そうなんですね。情報ありがとうございました！
+それじゃあ、サキュバスはこの街を楽しみながら探そうかな…
+
+<CE: 1>

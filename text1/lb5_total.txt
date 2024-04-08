@@ -1,0 +1,57 @@
+<CE: 3>
+
+<ShowPicture: 1, bk_classroom2, Scale[100][100]>
+
+<ShowPicture: 2, t_full1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ！オタくんおはよ～
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。おはよう。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+そういえば昨日、あおいと先生たちで乱交パーティーやったんだっけ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うっ…うん。オタくんすごくて、先生たち全員アヘ顔にさせちゃってたよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+わ～…うらやま。
+ウチなんて家族と一緒に乱交パーティーになっちゃってさ。
+もう恥ずかしくって。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ももは友達の女の子たち呼んでワイワイえっちなことしたよ～
+すごく楽しかったなぁ～
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あっ、てかさ。今日の放課後ってみんな予定空いてるよね？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。大丈夫だよ。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+モモも大丈夫だよ～。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それじゃあ今日の放課後、ラブホ行ってエッチしない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いいね～。もも賛成。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そうだね。家とかだと、りりかちゃんの時みたいに
+お姉ちゃんとかがエッチしたいとか言いそうだしね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+確かに～。モモもお姉ちゃんいるけど、
+オタくん見たら絶対エッチに混ざる～って言うと思う。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そうだよね。私のお姉ちゃんも絶対言うと思う。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+それじゃあ、みんなで放課後ラブホ行こっか。
+
+<CE: 1>

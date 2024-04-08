@@ -1,0 +1,67 @@
+<CE: 3>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+お兄さん♡溜まってるんじゃない？
+私で発散していかない？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ！？何ですか…いきなり…？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+この街に来たってことは、
+そういうことが目的で来たんでしょ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっ…そんなことないですよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+まぁまぁ…一緒に気持ちよくなろうよぉ♡
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+オタくん…この人マジでヤバいよ…なんか…普通にヤバい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん…そうだね…近づかない方がいいかも…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+じゃあ、早くここを離れて違うところ探しに行こっか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+ちっ！…待ちな！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+！？
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 002_crysis, 20, 100, 0>
+
+<ShowPicture: 1, t_sv6a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女性>
+全く…勇者は女に弱いから色仕掛けなら近づけると
+思ったんだけどな…全く…それも通用しねぇのか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+こっ…こいつ…サキュバスだったんだ！
+
+<ShowPicture: 2, t_momo2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+娼婦に変身してオタくんに近づこうとしたなんて、
+極悪非道なやつじゃん！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+こうなったら実力行使だ！かかってきな！
+
+<CE: 1>
+
+<CE: 4>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 001_battle, 25, 100, 0>

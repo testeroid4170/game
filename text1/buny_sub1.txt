@@ -1,0 +1,425 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub4a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ようこそ勇者様。当カジノにいらして頂きありがとうございます♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+当カジノでは勇者様にのみ特別なゲームをご用意しています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+私にじゃんけんで勝てたら、勇者様は私の体を好きにして
+いいですよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+それではじゃんけんスタートです♡
+さいしょはグーじゃんけんポン！
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あら♡さすがは勇者様ですね♡
+それでは私の体...勇者様のお好きなように使っていただいて
+いいですよ♡
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, sb_b1.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あんっ！んああぁん...ああぁん…
+んああぁん...ひゃあぁんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…はいっちゃった…おまんこに大きなポコちん…入ってきたぁ…
+…おちんぽっ！…あぁんっ！…このおちんぽ…凄すぎ…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んっ♡んっ♡んああぁん...あぁん♡
+あっ…あっ…あっ…いやぁんっ！…あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あんっ！あんっ！うっ…うっ…うっ…いやぁんっ！…
+ああぁん…うっ...うっ...うっ...ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あんっ！いやあぁんっ♡いやぁんっ！
+んっ…あぁんっ！んっ…んっ…あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+…そんなに…されたら…あん
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ちんぽ…もっと欲しいの…
+ちんぽ…もっと欲しいの…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んっ...ああぁんっ♡いやあぁんっ♡
+うっ…うっ…うっ…あんっ！あんっ！いやぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あぁんっ！ひゃんっ！ひゃあぁんっ！
+んっ...んっ...あぁんっ！んああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+感じるっ…そこ感じるっ！
+もっと…激しくしてぇ…
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ひゃあん…ああああぁんっ！あっ♡
+いやああぁんっ！あああぁんっ！…んあっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+そんなにされたらっ…あぁんっ！…おかしくなっちゃう
+このちんぽ…あんっ！大きくて気持ちいい……
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+いやぁんっ♡んっ♡んっ♡ああぁんっ♡
+ああぁん…んっ...んっ...んああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んあっ！…んおおおんっ！ひゃんっ！
+ああぁんっ！んっ♡んっ♡うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+いやあぁんっ♡んっ...ああぁんっ♡
+あぁんっ！ああああぁん...あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+いやぁんっ！あっ...ひゃんっ！
+ひゃんっ！ひゃあぁんっ！いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んああぁん...ああああぁん...んっ...んっ...んっ...
+あんっ！らめぇ♡もっとぉ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+感じるっ…そこ感じるっ！
+…そんなに…されたら…あん
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んおおおんっ！いやぁんっ！…んあっ！…
+あんっ…んっ...んっ...んっ...ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ひゃんっ♡んっ...んっ...あぁんっ…
+んおおおんっ！んあっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+感じるぅ♡もっとぉ♡ひゃあぁんっ！
+ひゃんっ！あんっ！んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んっ…んっ…ひゃああぁんっ！…あぁんっ！
+ひゃあん…ひゃあぁんっ！あんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+うっ...うっ...うっ...んっ♡んっ♡もっとぉ♡
+あぁんっ…あぁんっ！あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あぁんっ！…激しいの…好き…
+…もっと無理矢理犯してー！
+
+<StopSE>
+
+<PlaySE: sub1_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+イッちゃう…あぁんっ!
+…ヤバい……イッちゃう…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あんっ♡あっ...ああぁんっ♡
+あぁんっ！んあっ！…うっ…うっ…うっ…
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…イクっ！イクっ！イクっーー！ああああぁんっ！
+…イクっ！イクっ！…ひゃあぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+はぁ…はぁ…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+イきすぎて…体痺れちゃった…はぁ…はぁ…セックス…気持ちよすぎる…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+はぁ…はぁ…はぁ…
+んんんっ…ん…
+
+<ShowPicture: 1, sb_b2.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んああぁん...ああああぁん...ひゃあんっ！
+んああぁんっ！ああぁんっ♡うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あぁんっ…ひゃあんっ！ひゃあぁんっ！
+ひゃあぁんっ♡あっ...いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ひゃああぁんっ！…あああぁんっ！…いやああぁんっ！
+あんっ…んああぁん...あぁんっ…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+らめぇ♡もっとぉ♡んっ...んっ...
+んあっ！…あぁんっ！いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…クリトリスも…あんっ！…触って…
+そこ……そこが気持ちいいの！
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ああああぁん...ひゃあぁんっ！あんっ…
+うっ…うっ…うっ…んおおおんっ！ひゃああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んっ...あんっ！あっ...
+感じるぅ♡あぁんっ…あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…奥の方グリグリされるの好き…
+…この体位…あんっ！…大好き…
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あんっ！あんっ！うっ…うっ…うっ…いやぁんっ！…
+うっ...うっ...うっ...ひゃあん…ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+そこ…気持ちよすぎ…
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ひゃんっ！いやぁんっ！…ひゃあぁんっ！
+んっ...あっ...ああぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…もっと欲しいの！
+奥まで…あんっ！…ちんぽ届いてるよ
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んおおおんっ！ひゃあぁんっ！うっ…うっ…うっ…
+ああぁんっ♡ひゃあぁんっ！ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ああぁんっ♡ひゃんっ！あんっ！
+あんっ…ひゃあんっ！うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+いやぁんっ♡ひゃあんっ♡あんっ…
+あんっ♡ひゃあぁんっ♡いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ああぁんっ！あぁんっ！うっ...うっ...うっ...
+ああぁんっ！んああぁんっ！いやぁんっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+このちんぽ…あんっ！大きくて気持ちいい……
+奥まで…あんっ！…ちんぽ届いてるよ
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+いやぁんっ！…いやああぁんっ！んあっ！…
+んああぁん...ひゃあぁんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んっ...いやあぁんっ♡ひゃあぁんっ♡
+ひゃあぁん...ひゃあんっ♡感じるぅ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+ひゃあぁんっ！あんっ！ひゃんっ♡
+んっ...ひゃんっ！いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あああぁんっ！…うっ…うっ…うっ…ひゃああぁんっ！…
+ああああぁんっ！んっ♡んっ♡あっ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あっ...ひゃんっ！ひゃあぁんっ♡
+ああぁんっ！んっ...んっ...んっ...んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…そんなに…されたら…あん
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+イッちゃう…あぁんっ!
+イき…そう…ひゃああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+あぁんっ！ああああぁんっ！ひゃあん…
+んああぁんっ！ああああぁんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+…イクっ！イクっ！…ひゃあぁんっ！
+…イクっ！イクっ！イくぅっ！…ひゃあぁんっ！
+
+<StopSE>
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+うっ…うっ…うっ…
+んっ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+おまんこの中…精液でいっぱい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+んんんっ…ん…
+うっ…うっ…うっ…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 06_casino, 25, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+さすがは勇者様ですね♡
+すごい腰使いで、メロメロになってしまいました♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: バニーガール>
+また気が向いたら来てくださいね♡
+いつでも私がお相手させて頂きますね♡
+
+<CE: 1>

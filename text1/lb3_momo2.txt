@@ -1,0 +1,942 @@
+<CE: 3>
+
+<ShowPicture: 1, gl_s1.1, Scale[100][100]>
+
+<ShowPicture: 2, t_momo1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+オタくん♡こっち来て。
+それじゃあ早速エッチ始めちゃおっか♡
+
+<CE: 1>
+
+<CE: 3>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, gl_s1.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+わわっ！一面に女の子が...すごい数...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あっ！この子がももの言ってたオタくん？
+なんだかエッチそうだね～
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ももから話は聞いてるよ？すっごくエッチが上手なんでしょ♡
+私たちも気持ちよくしてね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ほらほら～1面中におっぱいあるよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+私の乳首綺麗なピンク色でしょ♡
+すきなだけしゃぶっていいよ♡
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやぁんっ！…んああぁんっ！…うっ…うっ…うっ…
+あぁんっ…んっ...んっ...んっ...ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おっぱいもっとモミモミしてぇ♡
+おっぱい気持ちいい？もっと揉んでもいいよ？
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+乳首にデコピンしてぇ♡
+もっと強く揉んでも大丈夫だよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あんっ♡いやぁんっ！んっ...
+ひゃんっ！んあっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ♡んっ♡感じるぅ♡らめぇ♡
+いやあぁんっ♡あんっ♡ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ…んっ…んおおおんっ！ひゃああぁんっ！…
+ああああぁんっ！いやぁんっ♡あぁん♡
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おっぱい気持ちいい？もっと揉んでもいいよ？
+乳首にデコピンしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ♡いやぁんっ！んっ...
+んっ...んっ...んああぁんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おっぱいもっとモミモミしてぇ♡
+おっぱいワシ掴みしてぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んあっ！…んっ…んっ…ひゃんっ！
+ひゃあぁん...あぁんっ！ひゃあん…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あっ...ああぁんっ♡いやぁんっ！
+んああぁんっ！…あっ…あっ…あっ…いやああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おっぱいもっとモミモミしてぇ♡
+おっぱい思いっきりモミモミしてね♡
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あぁんっ！ひゃあぁんっ！あんっ！あんっ！
+あんっ♡いやあぁんっ♡あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ああああぁんっ！ああぁん…んああぁんっ！
+あっ♡ひゃあん…いやぁんっ♡
+
+<ShowPicture: 1, gc_mm1.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+もう我慢できない...早くセックスしちゃお♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+エッチなおちんぽ早く入れて♡
+
+<ShowPicture: 1, gc_mm1.2, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+うっ...うっ...うっ...ひゃあん…ひゃあぁんっ！
+ああぁんっ♡感じるぅ♡ひゃあんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…入って…きたぁ………あんっ！
+…あんっ！あんっ！…入って…きた...
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あぁんっ…んっ...んっ...んっ...んっ...んっ...
+んっ…あぁんっ！ひゃああぁんっ！…んおおおんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ…あぁんっ！うっ…うっ…うっ…あっ…あっ…あっ…
+ああああぁんっ！んっ...んっ...んっ...ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやぁんっ！ひゃあぁんっ♡ああぁんっ♡
+んっ…あぁんっ！いやぁんっ！…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ちんぽ…もっと欲しいの…
+このちんぽ…あんっ！大きくて気持ちいい……
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやあぁんっ♡いやぁんっ！ひゃんっ！
+ひゃあぁんっ！んっ…んっ…んあっ！…
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んあっ！…んおおおんっ！いやぁんっ！…
+ひゃあんっ！んああぁんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+もっと…激しくしてぇ…
+…そんなに…されたら…あん
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+うっ...うっ...うっ...あっ♡あぁんっ！
+あああぁんっ！…んおおおんっ！んあっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ヤバい…ちんぽ…すごい…
+…もっと欲しいの！
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+うっ...うっ...うっ...あぁんっ…ああぁんっ！
+ひゃあんっ！んああぁんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+気持ちいい…あんっ…これ…最高…
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あああぁんっ！…んああぁんっ！…うっ…うっ…うっ…
+ひゃあん…ひゃあぁん...あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ♡いやぁんっ！あんっ♡
+ああああぁんっ！んっ...んっ...んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あっ...ああぁんっ♡いやぁんっ！
+あぁんっ！あんっ！あんっ！うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あぁんっ！ひゃあぁんっ！うっ...うっ...うっ...
+ひゃあんっ♡ひゃあぁん...もっとぉ♡
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+おまんこ…もっとついてー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あんっ！あんっ！んあっ！…んっ…んっ…
+ひゃあんっ！ああぁん…ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁん...あっ♡んっ...んっ...んっ...
+あああぁんっ！…あんっ！あんっ！あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あんっ♡ああぁん…ひゃあぁん...
+ひゃあぁんっ♡あっ...あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやぁんっ！…いやああぁんっ！うっ…うっ…うっ…
+ひゃあんっ♡あんっ…あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あっ♡あぁん♡感じるぅ♡
+ああああぁんっ！ああああぁん...あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+もっとして！…それ好きなのぉ！
+
+<StopSE>
+
+<PlaySE: sub2_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+もうだめ……イっちゃいそう…
+もうだめ……イっちゃいそう…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやあぁんっ♡あんっ♡いやぁんっ！
+いやああぁんっ！んおおおんっ！んっ…んっ…
+
+<StopSE>
+
+<PlaySE: sub2_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…イクっ！イクっ！…いくぅっ！…あぁんっ！
+…イクっ！イクっ！種付けしてぇー！ひゃああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おっ…おっ…
+はぁ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+すごい精液の量…いっぱい中出しされちゃった…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ…はぁ…はぁ…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+じゃあ今度はパイズリね♡オタくんのおちんぽ挟んで
+あげるね♡
+
+<ShowPicture: 1, gc_mm5.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おっぱいで沢山気持ちよくなってね♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…むにゅう♡むにゅう♡…にちゃにちゃ……にゅぽにゅぽ♡
+ひゃあぁんっ！ひゃあんっ♡いやぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んんっ...ひゃあんっ...あんっ！あんっ！
+…ごしごし♡ごしごし♡…にゅぽにゅぽ……ずりずり…
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…むにゅう♡むにゅう♡…ずりずり……ずりずり！ずりずり！
+ひゃああぁんっ！いやぁんっ！ひゃあんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+オタくんのおちんぽ幸せそうだね♡
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ！んっ…んっ…んっ♡んっ♡
+…にちゃにちゃ！…むにゅう♡むにゅう♡…にゅぽにゅぽ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+すごいおちんぽだね。こすりがいがあって嬉しいな♡
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ぐり！ぐり！ぐり！…ぐり♡ぐり♡…ごしごし♡ごしごし♡
+んんっ...ひゃあんっ♡あんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+もぉう…オタくんはおっぱいが大好きなんだね…
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ♡いやぁんっ...んんっ...
+…ずりずり♡…にゅぽにゅぽ♡…むにゅむにゅ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+どぉう♡デカ乳に挟まれる気分は？
+気持ちよくって最高でしょ♡
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…むにゅむにゅ……にちゃにちゃ♡…むにゅむにゅ♡
+いやぁんっ...んっ…んっ…ひゃああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いっぱい気持ちよくなってね…
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んんっ...んんっ♡ひゃあぁんっ♡
+…ぐり！ぐり！ぐり！…にゅぽにゅぽ！…ごしごし…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…にゅぽにゅぽ！…ずりずり♡…むにゅむにゅ…
+いやぁんっ...んっ…んっ…んっ！んっ！
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…むにゅう！…ずりずり……むにゅむにゅ…
+んんっ！ひゃああぁんっ！ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ！んっ！んっ♡んっ♡いやぁんっ♡
+…ごしごし♡ごしごし♡…むにゅむにゅ……むにゅう…
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+だぶるパイズリだよ♡気持ちいいでしょ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…むにゅむにゅ……ごしごし！…にゅぽにゅぽ！
+いやぁんっ...ひゃあぁんっ...ひゃあんっ♡
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ごしごし♡ごしごし♡…むにゅう！…にゅぽにゅぽ♡
+あんっ...あんっ...ひゃあぁんっ♡あんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んんっ♡んんっ！ひゃああぁんっ！
+…にゅぽにゅぽ♡…にちゃにちゃ♡…にゅぽにゅぽ！
+
+<ShowPicture: 1, gc_mm2.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ねぇねぇオタくん♡今度はこっち来て
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+早くおちんぽ挿入してほしいな♡
+
+<ShowPicture: 1, gc_mm2.2, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ああああぁんっ！あぁんっ！んっ...んっ...
+ひゃあん…ひゃあぁんっ！んああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…あんっ！あんっ！…入って…きた...
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ...んっ...あっ♡んっ♡んっ♡
+ひゃんっ！いやぁんっ！…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+うっ…うっ…うっ…あっ…あっ…あっ…あああぁんっ！…
+あぁんっ…ひゃあんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ...あんっ！あんっ♡
+あっ…あっ…あっ…んっ…んっ…ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ヤバい…ちんぽ…すごい…
+…ヤバい…ちんぽ…すごい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ♡いやぁんっ！あんっ！
+あああぁんっ！…あぁんっ！あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あっ…あっ…あっ…ひゃんっ！うっ…うっ…うっ…
+んああぁんっ！うっ...うっ...うっ...ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+そこ…気持ちよすぎ…
+もっと…激しくしてぇ…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+らめぇ♡あんっ！ひゃあん…
+いやああぁんっ！あんっ！あんっ！んっ…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ヤバい…ちんぽ…すごい…
+…クリトリスも…あんっ！…触って…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ああああぁん!んああぁん...あぁんっ…
+んっ...んっ...ひゃあぁん...んっ...んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやぁんっ！…んっ…んっ…うっ…うっ…うっ…
+あんっ♡あぁんっ！あっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃんっ！んっ...あんっ♡
+あんっ！ひゃあんっ！ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ...あっ...あんっ！
+んああぁんっ！…いやああぁんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁん...あぁんっ！ひゃあんっ！
+んっ♡んっ♡あんっ♡ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ガンガン突かれるの好き…
+感じるっ…そこ感じるっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ！んあっ！…あんっ！あんっ！
+ああああぁん...んああぁんっ！んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あんっ！あんっ…ひゃあん…
+ひゃああぁんっ！…うっ…うっ…うっ…いやああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+あんっ…ああぁんっ！んっ...んっ...
+いやあぁんっ♡いやぁんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んっ…あぁんっ！ひゃああぁんっ！…んあっ！…
+んああぁん...んっ...んっ...あぁん♡
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあんっ♡んああぁんっ！んああぁん...
+あぁんっ！うっ...うっ...うっ...ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+気持ちいい…あんっ…これ…最高…
+もっとして！…それ好きなのぉ！
+
+<StopSE>
+
+<PlaySE: sub2_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いっ…イッちゃう…らめぇ…
+あんっ！…もうイッちゃう…
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いやあぁんっ♡あっ...んっ...
+いやああぁんっ！いやぁんっ！…うっ…うっ…うっ…
+
+<StopSE>
+
+<PlaySE: sub2_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…イクっ！イクっ！イくぅっ！…あああぁんっ！
+…イクっ！イクっ！イくぅっ！…ひゃあぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んんんっ…ん…
+おっ…おっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ヤバい…体動かせないくらい気持ちいいよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+はぁ…はぁ…
+はぁ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+今度はパイズリだよ♡おっぱいでまたおちんちん
+包んじゃうね♡
+
+<ShowPicture: 1, ,gc_mm7.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+たくさん気持ちいいことしようね♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ごしごし！…むにゅう！…ぐり♡ぐり♡
+んっ♡んっ♡いやぁんっ！んんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃああぁんっ！ひゃあんっ♡いやぁんっ...
+…むにゅう♡むにゅう♡…にちゃにちゃ！…むにゅむにゅ♡
+
+<PlaySE: py_slow, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ずりずり♡…むにゅう……むにゅむにゅ♡
+ひゃあぁんっ♡ひゃああぁんっ！ひゃあんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+いっぱいおっぱいに埋もれてね…
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあぁんっ...んんっ！あんっ♡あんっ♡
+…ずりずり……ごしごし！…ずりずり！ずりずり！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ウチらのおっぱいはどう？
+二人ともデカ乳だから気持ちいいでしょ♡
+
+<PlaySE: py_norm, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ずりずり……にちゃにちゃ……ごしごし…
+あんっ！あんっ！んんっ♡ひゃああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+もっともっと気持ちよくなってね
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んんっ♡ひゃあぁんっ♡ひゃあぁんっ！
+…にちゃにちゃ！…にちゃにちゃ♡…むにゅう…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+オタくんはおっぱいが大好きなんだね♡
+いっぱい楽しんでってね♡
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ごしごし……ずりずり……ずりずり♡
+ひゃあぁんっ♡ひゃあんっ...んっ！んっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ふふふ♡さっきからおちんちんが休まる暇がないね♡
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+んんっ♡んんっ...あんっ...あんっ...
+…にちゃにちゃ！…ごしごし！…ぐり！ぐり！ぐり！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…むにゅむにゅ♡…ずりずり！ずりずり！…にちゃにちゃ！
+ひゃあんっ...んんっ♡んっ！んっ！
+
+<PlaySE: py_fast2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…にゅぽにゅぽ！…にゅぽにゅぽ♡…にちゃにちゃ！
+ひゃああぁんっ！あんっ...あんっ...いやぁんっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+ひゃあんっ♡んっ…んっ…んっ！んっ！
+…ずりずり！ずりずり！…ぐり♡ぐり♡…むにゅう！
+
+<PlaySE: py_fast1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+おちんぽすごく熱くなってるよ。
+気持ちよくなってくれて嬉しいな♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 女の子>
+…ぐり！ぐり！ぐり！…むにゅう♡むにゅう♡…ごしごし♡ごしごし♡
+んっ♡んっ♡ひゃあぁんっ！ひゃああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ねぇねぇ！最後はももとエッチしようよ！
+オタくんのおちんぽに跨っちゃうね♡
+
+<ShowPicture: 1, gc_mm3.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: momo_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあんっ！んああぁんっ！ひゃあぁん...
+あぁんっ！ああぁん…ひゃあんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…はいっちゃった…おまんこに大きなポコちん…入ってきたぁ…
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: momo_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあぁんっ！あんっ…ああああぁんっ！
+いやぁんっ！あんっ♡あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ…あっ…あっ…んっ…んっ…あんっ！あんっ！
+んああぁんっ！ひゃあんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: momo_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃんっ♡んっ...んっ...んっ...いやぁんっ♡
+んっ…んっ…あぁんっ！あんっ！あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+突いて…あんっ！…もっと突いてー！…
+…ヤバい…ちんぽ…すごい…
+
+<StopSE>
+
+<PlaySE: momo_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+…もっと無理矢理犯してー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ああああぁん...んっ...んっ...ひゃあんっ！
+ひゃあぁんっ！ひゃああぁんっ！…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あんっ♡ひゃんっ！んっ...
+うっ...うっ...うっ...ひゃあぁん...ひゃんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…この体位…あんっ！…大好き…
+そこ……そこが気持ちいいの！
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+いやぁんっ！…あんっ！あんっ！あああぁんっ！…
+ああああぁんっ！んああぁん...ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ガンガン突かれるの好き…
+もっと…激しくしてぇ…
+
+<StopSE>
+
+<PlaySE: momo_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んあっ！…あぁんっ！んっ…んっ…
+ひゃあぁんっ♡あんっ♡いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…奥の方グリグリされるの好き…
+ちんぽ…あんっ！…大好き…
+
+<StopSE>
+
+<PlaySE: momo_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ…あっ…あっ…んっ…あぁんっ！んおおおんっ！
+あぁん♡らめぇ♡ひゃあんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あっ...いやあぁんっ♡いやぁんっ！
+ああああぁんっ！んっ♡んっ♡あぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあんっ♡んっ♡んっ♡ああぁんっ！
+ああぁんっ♡あんっ♡んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んああぁん...んっ...んっ...ああああぁんっ！
+ひゃあんっ♡いやぁんっ♡んああぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+そこ…すごくいい…
+…奥の方グリグリされるの好き…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃあぁんっ！いやぁんっ！…うっ…うっ…うっ…
+ああああぁんっ！あぁんっ…ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃんっ！いやあぁんっ♡ひゃあぁんっ♡
+ああああぁん!あぁんっ！もっとぉ♡
+
+<StopSE>
+
+<PlaySE: momo_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ああああぁんっ！ああああぁん!んああぁん...
+んっ...いやあぁんっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ひゃんっ！あぁんっ！あああぁんっ！…
+あぁん♡あっ♡あぁんっ…
+
+<StopSE>
+
+<PlaySE: momo_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+んっ...いやあぁんっ♡ああぁんっ♡
+んっ...んっ...んっ...うっ...うっ...うっ...ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…そんなに…されたら…あん
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: momo_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+イき…そう…ひゃああぁんっ！
+…ヤバい……イッちゃう…あんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: momo_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+あんっ！あんっ…うっ...うっ...うっ...
+らめぇ♡ああぁん…ああぁんっ！
+
+<StopSE>
+
+<PlaySE: momo_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+…イクっ！イクっ！イくぅっ！…あああぁんっ！
+イっちゃう！イっちゃう！精液中に出してぇー！ああぁんっー
+
+<StopSE>
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+はぁ…はぁ…はぁ…
+んんんっ…ん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+まだイった快感が残ってる…はぁ…すごい気持ちよかったなぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+はぁ…はぁ…
+んんんっ…ん…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 000_school, 25, 100, 0>
+
+<ShowPicture: 1, bk_classroom2, Scale[100][100]>
+
+<ShowPicture: 2, t_momo1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+オタくん♡どうだった？ハーレムエッチは？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。すごくよかったよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+今度またももたちとハーレムエッチしようね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うん。その時はよろしくね。
+
+<CE: 1>

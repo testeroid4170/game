@@ -1,0 +1,211 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub1a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+おはようございます。昨日はゆっくりお休みいただけたでしょうか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。ぐっすり眠れました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+それは良かったです。昨日は大変お世話になりました。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+いえいえ、そんな。あの…それより、
+これから僕たちはどうすれば良いのでしょうか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。それなのですが、勇者様たちにはサキュバスを
+倒して頂きたいと思っています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうですよね。帰還の魔法陣は確か
+サキュバスが持っているんですよね...
+
+<ShowPicture: 2, t_momo1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+でも、エレナさんが居れば安心だよね。
+昨日みたいにパパーっとやっつけてくれるし！
+
+<ShowPicture: 1, t_sub1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+あの...大変申し訳ないのですが、私は同行できないんです。
+
+<ShowPicture: 2, t_ririka1d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ！？エレナさんは一緒に来てくれないんですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい…私はこの村の戦士ですので、私が居なくなるとこの村を守る者は
+誰も居なくなってしまいます。
+ですので、私はこの村を離れることができません。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えぇっ！？…そんなぁ…じゃあどうやって
+サキュバスを倒せばいいんですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。そこで勇者様以外の御三方に戦って頂きたいのです！
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えぇっ！？ウチらが！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。異世界から勇者様以外の方も召喚したのは、
+優秀な戦士を集めるためでもあったのです。
+
+<ShowPicture: 2, t_momo1d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+えぇ～…もも達が戦いなんてできるかなぁ～
+
+<ShowPicture: 2, t_aoi1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん…私も戦いなんてしたことないし…
+
+<ShowPicture: 1, t_sub1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+大丈夫です。あなたたち御三方はとても素晴らしい資質に
+恵まれているんですよ。
+
+<ShowPicture: 2, t_ririka1d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+資質ですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。御三方は素晴らしい資質をもっています。
+私が同行したところで足でまといになってしまいます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えぇっ！？ウチらってそんなにすごいの！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。御三方とも素晴らしい資質をもっています。
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+りりか様は攻撃系の資質がとても高く、
+もも様は魔法系の資質がとても高く、
+あおい様は回復系の資質がとても高いです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+えぇっ！？そうなの！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。能力の高さに関しましては私が保証致します。
+更に勇者様の力添えがあれば御三方は、
+とてつもない強さを手に入れられるでしょう。
+
+<ShowPicture: 2, t_aoi1d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+えぇっ！？…それって…私たちと…オタくんが…
+エッチなことするって…こと…？
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+はい。…必要に応じて、魔力の摂取を勇者様からして頂きたいです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+えぇっ！？…魔力の摂取って……
+
+<ShowPicture: 2, t_momo1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ももは別にいいよぉ？昨日のオタくんカッコよかったし。
+何よりあのおちんちん見たら、興奮てきちゃったから♡ 
+
+<ShowPicture: 2, t_ririka1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ももノリノリじゃん！……まぁ…ウチも必要になったら…しようかな♡ 
+昨日のエッチ…すごくエロかったから♡
+
+<ShowPicture: 2, t_aoi1d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+えぇっ！？…2人とも本気なの！？
+
+<ShowPicture: 2, t_momo1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+うん！もも、オタくんのこと大好きだからいいよ♡ 
+
+<ShowPicture: 2, t_ririka1d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+おい！なに抜け駆けしてんだよ！
+
+<CE: 1>
+
+<CE: 3>
+
+<ShowPicture: 2, t_full1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えっ…えぇっ！？…僕がこの3人と…
+(そんな…夢みたいだ…この爆乳ギャル三人とエッチなことが
+出来るなんて…)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+って、そんなことよりエレナさんの話を聞かなきゃ。
+
+<ShowPicture: 1, t_sub1a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka1c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+昨日、隣町に勇者様のことを通達をしましたので
+まずは隣町に行って、サキュバスの情報を集めてください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+そして皆様には今から、武器や装備やお金をお渡しします。
+それでは早速衣装に着替えてみてください
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+はい。ありがとうございます。
+じゃあ着替えますね。
+
+<CE: 1>
+
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+結構かわいい衣装だね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+うん！もも、この衣装すごく気に入ったよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+うん。でもちょっと露出が多いかも...
+でも、この衣装すごくかわいいよね
+
+<ShowPicture: 1, t_sub1a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+三人ともすごくお似合いですよ。
+これならサキュバスもばっちり倒せそうです
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ありがとうございます！
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+隣町へ行くにはモンスターの林がありますが、
+御三方であれば簡単に突破できると思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: エレナ>
+それでは、旅の準備を整えて隣町へ行ってらっしゃいませ。
+皆様のご武運をお祈り申し上げます。
+
+<CE: 1>

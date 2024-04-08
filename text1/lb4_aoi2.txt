@@ -1,0 +1,936 @@
+<CE: 3>
+
+<ShowPicture: 1, t_aoi1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+オタくん。それじゃあ早速行こっか。
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, gc_ao1.2, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あっ！いらっしゃ～い♡
+あおいちゃん。オタくんを連れてきてくれてありがとね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+実はね、先生たちみんなオタくんに発情しちゃってるの♡
+だから…今から先生たちとイケナイ授業始めましょ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ほっ…本当に先生たちがいる…
+しかも、全員美人でおっぱいの大きい先生たちだ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ほぉら♡早く！
+先生たちと保健体育の授業始めよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+じゃあ早速エッチしちゃおっか♡
+
+<ShowPicture: 1, gc_ao1.3, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ…んっ...んっ...ああああぁん...
+ひゃあぁん...感じるぅ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあんっ！…あんっ！…あの！…あんっ！…きたぁ…おちんぽ…きたぁ…
+…きた…ちんぽ……あんっ！…おまんこに入ってきたぁ…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああぁんっ！ああぁんっ♡んああぁんっ！
+んっ…あぁんっ！んあっ！…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ！あっ…あっ…あっ…ひゃんっ！
+ひゃあぁん...んああぁん...ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+いやぁんっ！いやあぁんっ♡ひゃんっ！
+んあっ！…んっ…あぁんっ！いやああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ちんぽ…あんっ！…大好き…
+奥まで…あんっ！…ちんぽ届いてるよ
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃんっ！あんっ♡いやぁんっ！
+あああぁんっ！…あっ…あっ…あっ…いやああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+うっ…うっ…うっ…あああぁんっ！…あっ…あっ…あっ…
+あぁんっ…ああぁん…ああああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+気持ちいい…あんっ…これ…最高…
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あぁんっ…ひゃあんっ！ひゃんっ♡
+うっ…うっ…うっ…んおおおんっ！あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+このおちんぽ…あんっ！…どんどん良くなってく…
+奥まで…あんっ！…ちんぽ届いてるよ
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁん...ひゃあん…うっ...うっ...うっ...
+んああぁん...ああああぁんっ！あぁんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+おまんこ…もっとついてー！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ！ひゃああぁんっ！…いやああぁんっ！
+うっ...うっ...うっ...あんっ…ああぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ♡いやぁんっ！ひゃんっ！
+ああぁん…あんっ！ああああぁん...
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ...ひゃあぁんっ♡あんっ！
+んっ…んっ…うっ…うっ…うっ…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあんっ！ああああぁんっ！ひゃあぁん...
+んっ...んっ...ああああぁん!んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+ガンガン突かれるの好き…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ！ひゃんっ！あああぁんっ！…
+んっ...んっ...んっ...ひゃあんっ！あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあんっ♡ああぁんっ！ああぁん…
+いやぁんっ！…ひゃんっ！んあっ！…
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああぁん…んっ♡んっ♡あんっ！
+あっ...ひゃんっ！いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んああぁんっ！…あああぁんっ！…んおおおんっ！
+ああああぁん!あぁんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あぁんっ！ひゃあんっ！ひゃあん…
+あんっ…ひゃあん…ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あぁんっ！…激しいの…好き…
+あぁんっ！…激しいの…好き…
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+イッちゃう…あぁんっ!
+いっ…イッちゃう…らめぇ…
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ♡あんっ！いやあぁんっ♡
+ひゃんっ！あっ…あっ…あっ…うっ…うっ…うっ…
+
+<StopSE>
+
+<PlaySE: sub1_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…イクっ！イクっ！イクっーー！ああああぁんっ！
+…イクっ！イクっ！種付けしてぇー！ひゃああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+はぁ…はぁ…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+まだ快感が残ってる…はぁ…気持ちよすぎて…体動かない…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+おっ…おっ…
+はぁ…はぁ…
+
+<ShowPicture: 1, gc_ao2.1, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ふふふっ♡すごい腰使いだったね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+じゃあ今度はおっぱいでも揉む？
+
+<StopSE>
+
+<PlaySE: sexy1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あっ…あっ…あっ…いやぁんっ！…あああぁんっ！…
+ああああぁんっ！あんっ…ああぁん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+おっぱい気持ちいい？もっと揉んでもいいよ？
+
+<StopSE>
+
+<PlaySE: sexy2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+乳首にデコピンしてぇ♡
+おっぱい気持ちいい？もっと揉んでもいいよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ...あんっ！ひゃあぁんっ♡
+あんっ！あんっ！いやぁんっ！…あぁんっ！
+
+<StopSE>
+
+<PlaySE: sexy3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ♡んっ♡うっ...うっ...うっ...ひゃあんっ♡
+んっ...あっ...あんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んあっ！…ひゃんっ！んおおおんっ！
+あんっ！あぁんっ…ひゃあんっ♡
+
+<StopSE>
+
+<PlaySE: sexy1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+おっぱいワシ掴みしてぇ♡
+もっと乳首つねってぇ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃんっ！ひゃあぁんっ♡んっ...
+あぁんっ…んっ...んっ...あんっ！
+
+<StopSE>
+
+<PlaySE: sexy2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+おっぱいワシ掴みしてぇ♡
+おっぱい気持ちいい？もっと揉んでもいいよ？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んああぁんっ！…あっ…あっ…あっ…あああぁんっ！…
+ああぁん…ああああぁん...あんっ！
+
+<StopSE>
+
+<PlaySE: sexy3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+いやぁんっ！いやあぁんっ♡あんっ♡
+んおおおんっ！ひゃあぁんっ！いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+おっぱい揉まれるの気持ちいい♡
+好きなだけおっぱい揉んでいいんだよ？
+
+<StopSE>
+
+<PlaySE: sexy1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+うっ…うっ…うっ…んあっ！…いやああぁんっ！
+あんっ！ああぁんっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あぁんっ…うっ...うっ...うっ...ひゃあん…
+ああああぁんっ！あんっ♡ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ふふっ♡おっぱいに夢中ね。
+今度はオタくんのおちんぽでおまんこも可愛がってね♡
+
+<ShowPicture: 1, gc_ao3.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああああぁん...あぁんっ！んああぁんっ！
+あんっ♡んっ...んっ...んっ...ひゃあんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…おちんぽっ！…あぁんっ！…このおちんぽ…凄すぎ…
+…はいっちゃった…おまんこに大きなポコちん…入ってきたぁ…
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+感じるぅ♡ひゃあん…あぁん♡
+んっ…んっ…あんっ！あんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あぁんっ！ひゃああぁんっ！…んおおおんっ！
+ひゃあんっ！あんっ！んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ♡ひゃあぁんっ♡ああぁんっ♡
+んっ…あぁんっ！ひゃああぁんっ！…んおおおんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+もっと…激しくしてぇ…
+もっと…激しくしてぇ…
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…奥まで入ってる……
+…クリトリスも…あんっ！…触って…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ♡あんっ♡んっ...
+いやぁんっ！…ひゃんっ！ひゃああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ…あぁんっ！んおおおんっ！あんっ！あんっ！
+んああぁんっ！んっ...んっ...ひゃあんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああぁんっ♡らめぇ♡ああああぁんっ！
+んああぁんっ！…ひゃんっ！あああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+突いて…あんっ！…もっと突いてー！…
+このおちんぽ…あんっ！…どんどん良くなってく…
+
+<StopSE>
+
+<PlaySE: sub1_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃんっ♡あんっ…んああぁんっ！
+んっ...んっ...ああぁん…うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…そんなに…されたら…あん
+…もっと無理矢理犯してー！
+
+<StopSE>
+
+<PlaySE: sub1_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+いやぁんっ！…あぁんっ！あっ…あっ…あっ…
+ああああぁん!ひゃあんっ♡感じるぅ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ！ひゃんっ！あっ...
+んっ...んっ...んっ...うっ...うっ...うっ...あんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁんっ♡あんっ♡ああぁんっ♡
+いやああぁんっ！んっ…あぁんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あぁんっ…ああああぁん...んああぁんっ！
+あんっ…ひゃんっ♡ひゃあんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+もぉう...セックスの…途中なのにおっぱいばっかり見てぇ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+うっ…うっ…うっ…ひゃあぁんっ！んああぁんっ！…
+んああぁん...ひゃあぁんっ！ああぁん…
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあんっ！ああああぁん!あんっ♡
+いやああぁんっ！んっ…んっ…ひゃあぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあぁん...んっ...んっ...んっ...いやぁんっ♡
+あっ...いやあぁんっ♡んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ！あんっ！んおおおんっ！いやぁんっ！…
+いやぁんっ♡ああぁん…もっとぉ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああぁんっ♡あぁんっ！あんっ！
+ひゃあぁんっ！んああぁんっ！うっ...うっ...うっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+イッちゃう…あぁんっ!
+イクッ！イクッ！イっちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ！んっ...あんっ♡
+いやああぁんっ！んあっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…イクっ！イクっ！イクっーー！ああああぁんっ！
+…イクっ！イクっ！イくぅっ！…あああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んんんっ…ん…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ヤバい…気持ちよすぎて動けない…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+うっ…うっ…うっ…
+んっ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+すっごくエロかったわぁ♡
+今度は私にもおちんぽ入れて♡
+
+<ShowPicture: 1, gc_ao5.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあん…ああぁんっ！あぁんっ…
+んっ...んっ...ひゃあんっ♡んっ♡んっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…すごい…ちんぽ…きたぁ…
+ひゃあんっ！…あんっ！…あの！…あんっ！…きたぁ…おちんぽ…きたぁ…
+
+<StopSE>
+
+<PlaySE: sub1_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああぁんっ！あんっ！ああああぁんっ！
+ひゃあぁんっ！んっ…んっ…あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+いやぁんっ！…あああぁんっ！…んっ…あぁんっ！
+うっ...うっ...うっ...あぁんっ！あぁんっ…
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+いやぁんっ！あんっ♡ああぁんっ♡
+いやぁんっ！…んおおおんっ！んああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+激しいっ…あんっ！…気持ちよすぎて…おかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+…クリトリスも…あんっ！…触って…
+突いて…あんっ！…もっと突いてー！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃんっ！んっ...いやぁんっ！
+あんっ！あんっ！あぁんっ！いやああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ…あぁんっ！んおおおんっ！ひゃあぁんっ！
+あぁんっ！あんっ…ひゃあんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+感じるっ…そこ感じるっ！
+そこ…気持ちよすぎ…
+
+<StopSE>
+
+<PlaySE: sub1_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ああぁんっ！ひゃんっ♡ああああぁん!
+んっ…あぁんっ！いやああぁんっ！んあっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+このちんぽ…あんっ！大きくて気持ちいい……
+…奥まで入ってる……
+
+<StopSE>
+
+<PlaySE: sub1_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあんっ！あぁんっ…あんっ…
+ああああぁん...あぁんっ…ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+そこ…気持ちよすぎ…
+そこ好き！…もっとついてぇ！
+
+<StopSE>
+
+<PlaySE: sub1_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ…あぁんっ！あんっ！あんっ！ひゃんっ！
+んっ...んっ...んっ...あっ♡ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ♡あんっ！ひゃんっ！
+ああぁんっ！ひゃあん…ああああぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃんっ！ひゃあぁんっ♡あっ...
+あああぁんっ！…んっ…あぁんっ！いやぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃあんっ！んああぁんっ！んっ...んっ...
+ひゃあぁんっ！あっ♡ああぁん…
+
+<StopSE>
+
+<PlaySE: sub1_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+おまんこ…もっとついてー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+ひゃんっ！いやああぁんっ！んっ…んっ…
+ああぁん…んっ...んっ...あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ...んっ...あんっ！らめぇ♡
+ひゃあぁんっ！あああぁんっ！…んおおおんっ！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ！あんっ…ひゃあんっ！
+あんっ！ひゃんっ！いやあぁんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んああぁんっ！…ひゃあぁんっ！あんっ！あんっ！
+あぁんっ！ああぁんっ！もっとぉ♡
+
+<StopSE>
+
+<PlaySE: sub1_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+んっ♡んっ♡ひゃんっ♡あんっ！
+あぁんっ…んああぁん...ああああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+おまんこ…もっとついてー！
+もっとして！…それ好きなのぉ！
+
+<StopSE>
+
+<PlaySE: sub1_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+あんっ！…もうイッちゃう…
+イクっ！私イッちゃう！
+
+<StopSE>
+
+<PlaySE: sub1_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+いやぁんっ！いやあぁんっ♡んっ...
+あんっ！あんっ！ひゃああぁんっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: sub1_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+イっちゃう！イっちゃう！種付けしてぇー！ひゃああぁんっ！
+…イクっ！イクっ！精液…あんっ！…中に出して…
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+うっ…うっ…うっ…
+はぁ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+すごい勢いで種付けされちゃった…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 先生>
+はぁ…はぁ…
+うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+オタくん！最後は私とエッチしてほしいんだけど...
+いいかな？
+
+<ShowPicture: 1, gc_ao4.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: aoi_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んああぁん...ああああぁん...うっ...うっ...うっ...
+ああぁんっ♡ひゃあんっ！ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…おちんぽっ！…あぁんっ！…このおちんぽ…凄すぎ…
+…入って…きたぁ……あぁんっ！…
+
+<StopSE>
+
+<PlaySE: aoi_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あんっ！あっ♡んっ...んっ...んっ...
+んっ…んっ…んあっ！…んおおおんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃんっ！あああぁんっ！…あんっ！あんっ！
+んああぁんっ！ひゃあんっ！あんっ…
+
+<StopSE>
+
+<PlaySE: aoi_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んっ...ああぁんっ♡あっ...
+あああぁんっ！…あんっ！あんっ！んおおおんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+
+<StopSE>
+
+<PlaySE: aoi_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そんなにされたらっ…あぁんっ！…おかしくなっちゃう
+…奥の方グリグリされるの好き…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃあぁんっ♡あんっ♡ひゃんっ！
+ひゃんっ！んあっ！…ひゃああぁんっ！…
+
+<StopSE>
+
+<PlaySE: aoi_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃんっ！ひゃあぁんっ！いやああぁんっ！
+うっ...うっ...うっ...んああぁん...ああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+感じるっ…そこ感じるっ！
+
+<StopSE>
+
+<PlaySE: aoi_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あんっ♡ひゃあんっ♡ああぁんっ♡
+あっ…あっ…あっ…ひゃんっ！ひゃああぁんっ！…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…ヤバい…ちんぽ…すごい…
+そこ…すごくいい…
+
+<StopSE>
+
+<PlaySE: aoi_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃあんっ♡ひゃあぁん...感じるぅ♡
+ひゃあぁんっ！んああぁんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+おまんこ…もっとついてー！
+おまんこおかしくなっちゃうくらいはげしく犯してぇー！
+
+<StopSE>
+
+<PlaySE: aoi_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あぁんっ！ひゃんっ！んおおおんっ！
+ひゃあんっ！んああぁん...ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ひゃあぁんっ♡あんっ♡あっ...
+んっ...んっ...んっ...んっ...んっ...あぁんっ！
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+いやぁんっ！ひゃんっ！ああぁんっ♡
+ひゃああぁんっ！…ひゃんっ！あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んああぁんっ！ああああぁん...ひゃあん…
+ああぁんっ♡んっ...んっ...ああああぁん!
+
+<StopSE>
+
+<PlaySE: aoi_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+…そんなに…されたら…あん
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あっ…あっ…あっ…あああぁんっ！…あぁんっ！
+ああぁんっ！ひゃあぁんっ！ああああぁん...
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あぁんっ…ああああぁん!あぁんっ！
+いやぁんっ！…んああぁんっ！…んおおおんっ！
+
+<StopSE>
+
+<PlaySE: aoi_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+感じるぅ♡あっ♡あぁんっ…
+いやあぁんっ♡ああぁんっ♡あんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んああぁんっ！…あああぁんっ！…んおおおんっ！
+らめぇ♡ああああぁんっ！ひゃあん…
+
+<StopSE>
+
+<PlaySE: aoi_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+らめぇ♡ひゃあぁんっ！んああぁんっ！
+んっ...んっ...んああぁんっ！ああああぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+
+<StopSE>
+
+<PlaySE: aoi_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…ヤバい……イッちゃう…あんっ！あんっ！
+イクッ！イクッ！イっちゃう！
+
+<StopSE>
+
+<PlaySE: aoi_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+あんっ♡あっ...いやあぁんっ♡
+ひゃああぁんっ！…んあっ！…あっ…あっ…あっ…
+
+<StopSE>
+
+<PlaySE: aoi_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…イクっ！イクっ！…いくぅっ！…あぁんっ！
+…イクっ！イクっ！イクっ！あんっ！あんっ！…いくぅっ！…ああああああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+はぁ…はぁ…
+んんんっ…ん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+…アツアツの精液いっぱい注ぎこまれちゃった…
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 000_school, 25, 100, 0>
+
+<ShowPicture: 1, bk_classroom2, Scale[100][100]>
+
+<ShowPicture: 2, t_aoi1a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+オタくん♡今日はありがとね！
+先生たちも大満足だったと思うよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっか。僕も楽しかったしよかったよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+ふふふっ♡オタくんは先生たちも気持ちよくさせられるなんて
+本当にすごいよね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そんなことないよ。僕も気持ちよくしてもらえたし
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっか。それはよかった。
+じゃあまたみんなでエッチしようね！
+
+<CE: 1>
+
+<CE: 4>

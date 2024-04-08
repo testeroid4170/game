@@ -1,0 +1,65 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ようこそ勇者様。
+遠いところからはるばる来ていただき大変感謝しています。
+
+<ShowPicture: 1, t_sub2d, Scale[100][100]>
+
+<ShowPicture: 2, t_momo2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+わぁっ！王女様ってすっごい美人だね！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+実は僕たちはサキュバスを探しにこの街まで来たのですが、
+何か知りませんか？
+
+<ShowPicture: 2, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。それなのですが、捜査をしているのですが
+サキュバスらしい者は発見できてないんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうですか...それではこの街にはサキュバスがいないのかも
+しれませんね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+いえ、それは分かりません。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+サキュバスは人に変身することができるらしいのです。
+ですので、人に化けてこの街に潜伏
+している可能性があります。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+変身...ですか...それでは、街のどこに
+サキュバスが潜んでいるのか分からないってことですか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。そうなんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど...それは厄介ですね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+私たちも精一杯調査をしているのですが
+まだサキュバスの尻尾をつかめていないんです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そうなんですか...僕たちの方でも街を調査させて頂きます。
+それで怪しい人がいたら、報告させて頂きます。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+はい。わかりました。勇者様たちにご協力して
+頂けるなんて大変心強いです。
+それではよろしくお願い致します。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+わかりました。それじゃあ、街に怪しい人がいないか
+探しに行こうか。
+
+<CE: 3>

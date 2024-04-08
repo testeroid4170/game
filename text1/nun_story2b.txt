@@ -1,0 +1,582 @@
+<CE: 3>
+
+<ShowPicture: 1, t_sub3a, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+僕はマリアさんに事情を話した
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+……………
+
+<ShowPicture: 1, t_sub3b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+なるほど…まさか銅像の中に隠れていたとは…
+思いもしませんでしたよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。それで誘拐された子なんですが、
+行方はまだわからないんです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+そうですか…それは仕方ありませんね
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい…僕達でまた捜査を始めますが、
+いつ救出できるかは、わかりません…
+
+<ShowPicture: 1, t_sub3a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。勇者様たちにそうして頂けると、
+非常にありがたいです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+勇者様達には、この街も救って頂き大変感謝しています…
+勇者様たちが来なかったら、
+更なる被害者が出ていたかもしれません…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ですので、勇者様たちはこの街の救世主なのです…
+本当に感謝してもしきれません。
+
+<ShowPicture: 2, t_ririka2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+いえいえ、そんな！
+ウチらもサキュバスを倒さなきゃいけないんで、
+そんな大層なことした訳じゃないですって！
+
+<ShowPicture: 2, t_momo2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+そうだよねぇ～サキュバス倒さないともも達も帰れないもんね～
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ですから、そんなに感謝しなくても大丈夫ですよ。
+今回サキュバスを倒せたのも、マリアさんが情報をくれたからですよ。
+
+<ShowPicture: 1, t_sub3b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+そっ…そんな…私は何も…
+それに、サキュバスを倒し、この街を救って
+くださったのは勇者様たちなので、
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+感謝してもしきれないですよ。
+このご恩は一生かけても返せないくらい、
+大きいものです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ですので、せめて何かお礼をさせてください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+おっ…お礼なんて…そんな！
+その気持ちだけで充分伝わりましたから！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+なっ…なんて清らかな心をお持ちなんですか…
+ですが、ここまでして頂いて何もお礼をしないのは、
+シスターとして恥じなければなりません。
+
+<ShowPicture: 1, t_sub3c, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ですので、私の体で良ければ好きにお使いください
+勇者様！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+えぇっ！？体でお礼ですか！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。勇者様は大変、女性好きだと聞きました。
+ですので、私の体で良ければ好きなだけお使いください。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(こっ…こんな美人のシスターとエッチができるなんて
+…でもさすがに…)
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+オタくん！マリアさんが勇気を出してエッチな
+誘いしてくれたんだから、
+それに応えないのは失礼なんじゃない？
+
+<ShowPicture: 2, t_momo2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+まぁ～確かに据え膳食わぬは男の恥って言うしね～
+マリアさんの後にもも達の相手してくれるんなら、
+エッチしてもいいよぉ♡
+
+<ShowPicture: 2, t_aoi2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+まっ…まぁ…マリアさんもお礼がしたいみたいなんだし…
+それにオタくんもエッチしたいだろうし、いいんじゃない？
+
+<ShowPicture: 2, t_ririka2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+そっ…そっか…そうだよね…マリアさんが勇気を
+出して誘ってくれたんだもんね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+分かりました！今からエッチしましょう！
+
+<ShowPicture: 2, t_sub3a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい。喜んでお相手をさせて頂きます。
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: H1, 25, 100, 0>
+
+<ShowPicture: 1, sb_sis1.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あぁんっ！ああぁんっ！うっ...うっ...うっ...
+ああぁんっ！んああぁん...ひゃあんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+…入って…きたぁ………あんっ！
+…すごい…ちんぽ…きたぁ…
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃあぁん...んああぁんっ！あぁんっ！
+いやぁんっ！…ひゃあぁんっ！あっ…あっ…あっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んあっ！…あああぁんっ！…んああぁんっ！…
+あんっ…ひゃあぁん...んああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+いやぁんっ！ひゃんっ！いやあぁんっ♡
+ひゃんっ！あああぁんっ！…んっ…あぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+おまんこだけじゃなくて…あんっ！…体全体が気持ちよくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_norm3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ちんぽ…もっと欲しいの…
+ちんぽ…あんっ！…大好き…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ああぁんっ♡いやぁんっ！んっ...
+うっ…うっ…うっ…いやぁんっ！…んあっ！…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んあっ！…ひゃんっ！んおおおんっ！
+あぁんっ…ひゃあぁんっ！ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+感じるっ…そこ感じるっ！
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_norm2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃあぁんっ！んっ...んっ...あぁん♡
+んおおおんっ！うっ…うっ…うっ…んっ…んっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+そこ……そこが気持ちいいの！
+…クリトリスも…あんっ！…触って…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ああぁん…あっ♡あぁんっ！
+ああぁん…ああああぁんっ！ひゃあぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+もっと…激しくしてぇ…
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃああぁんっ！…あっ…あっ…あっ…んっ…んっ…
+ひゃあんっ！あっ♡んああぁん...
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あっ...あんっ！ひゃんっ！
+ひゃあぁんっ！うっ...うっ...うっ...あぁんっ！
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ああぁんっ♡いやぁんっ！んっ...
+いやああぁんっ！んおおおんっ！うっ…うっ…うっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あんっ…ひゃあん…あんっ！
+うっ...うっ...うっ...あっ♡ひゃあん…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ちんぽで…奥の方…あんっ…掻き回されるの好き…
+もっとしてぇ！理性なくなるまで犯しまくってぇ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃんっ！あっ…あっ…あっ…んっ…あぁんっ！
+あんっ！ひゃあんっ！あぁんっ…
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んああぁん...ひゃあんっ♡ひゃあんっ！
+いやああぁんっ！ひゃああぁんっ！…んああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あぁんっ…うっ...うっ...うっ...ああぁん…
+ひゃあぁんっ♡ああぁんっ♡あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃあぁんっ！いやああぁんっ！あああぁんっ！…
+あんっ…ああぁんっ♡んああぁん...
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んああぁんっ！んっ...んっ...んああぁん...
+んああぁんっ！んああぁん...ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あぁんっ！…激しいの…好き…
+そんなにされたらっ…あんっ！…おまんこおかしくなっちゃう！
+
+<StopSE>
+
+<PlaySE: sub2_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+イクッ！イクッ！イっちゃう！
+もうだめ……イっちゃいそう…
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あんっ♡ひゃんっ！いやあぁんっ♡
+ひゃああぁんっ！…んっ…あぁんっ！んああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_z1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+…イクっ！イクっ！イくぅっ！…あああぁんっ！
+…イクっ！イクっ！イクっーー！ああああぁんっ！
+
+<CE: 2>
+
+<StopSE>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はぁ…はぁ…はぁ…
+はぁ…はぁ…はぁ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+おまんこの中…白濁液でいっぱい…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んんんっ…ん…
+はぁ…はぁ…はぁ…
+
+<ShowPicture: 1, sb_sis2.1, Scale[100][100]>
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あんっ…ああああぁんっ！んああぁんっ！
+あぁんっ…あぁん♡んっ...んっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+…入って…きたぁ………あんっ！
+…入って…きたぁ………あんっ！
+
+<StopSE>
+
+<PlaySE: sub2_soft2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃあんっ！ああぁん…あんっ…
+あんっ♡あんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あぁんっ！あっ…あっ…あっ…んああぁんっ！…
+ひゃあん…んああぁん...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub2_soft3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃあぁんっ！んっ...んっ...ああぁんっ！
+あああぁんっ！…んおおおんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+このちんぽ…あんっ！大きくて気持ちいい……
+…奥の方グリグリされるの好き…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+おまんこ…もっとついてー！
+…もっと無理矢理犯してー！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ああぁん…んああぁん...ひゃあぁんっ！
+んああぁんっ！…んおおおんっ！ひゃああぁんっ！…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃんっ！あんっ♡ああぁんっ♡
+あっ♡ひゃあんっ♡あんっ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+…この体位…あんっ！…大好き…
+…ヤバい…ちんぽ…すごい…
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んっ…あぁんっ！うっ…うっ…うっ…あぁんっ！
+あぁんっ！ああぁんっ！ひゃあん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んっ…感じすぎて…おまんこおかしくなっちゃう！
+…もっと無理矢理犯してー！
+
+<StopSE>
+
+<PlaySE: sub2_norm1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あっ…あっ…あっ…ひゃあぁんっ！いやああぁんっ！
+ああぁんっ♡いやあぁんっ♡あっ...
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+このちんぽ…あんっ！大きくて気持ちいい……
+…クリトリスも…あんっ！…触って…
+
+<StopSE>
+
+<PlaySE: sub2_soft1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+うっ…うっ…うっ…んあっ！…ひゃあぁんっ！
+ああああぁん!ひゃあぁんっ！ひゃあんっ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んっ...あんっ♡ひゃんっ！
+ああぁんっ！らめぇ♡うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+あぁんっ…ひゃあぁんっ！んっ♡んっ♡
+ひゃあぁんっ♡いやぁんっ！ひゃんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃあんっ！ああああぁん...あぁんっ…
+あぁん♡ひゃあんっ♡ああああぁん!
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+…クリトリスも…あんっ！…触って…
+ちんぽ…もっと欲しいの…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んっ…あぁんっ！ひゃああぁんっ！…あああぁんっ！…
+あんっ！んっ...んっ...んっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+いやあぁんっ♡ああぁんっ♡いやぁんっ！
+ひゃあんっ♡うっ...うっ...うっ...あんっ…
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んっ♡んっ♡ああぁんっ！もっとぉ♡
+あんっ♡あっ...いやぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃああぁんっ！…あああぁんっ！…いやぁんっ！…
+あんっ♡うっ...うっ...うっ...んっ...んっ...
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+ひゃんっ！ひゃあぁんっ♡いやぁんっ！
+ひゃあぁん...ひゃあん…ひゃあぁんっ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+おまんこ…もっとついてー！
+
+<StopSE>
+
+<PlaySE: sub2_z2, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+いっ…イッちゃう…らめぇ…
+いっ…イッちゃう…らめぇ…
+
+<StopSE>
+
+<PlaySE: sub2_hard1, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+んっ...んっ...んっ...ひゃあぁん...ああああぁん...
+あっ♡いやぁんっ♡うっ...うっ...うっ...
+
+<StopSE>
+
+<PlaySE: sub2_z3, 90, 100, 0>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+…イクっ！イクっ！精液…あんっ！…中に出して…
+…イクっ！イクっ！種付けしてぇー！ひゃああぁんっ！
+
+<StopSE>
+
+<CE: 2>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+おっ…おっ…
+うっ…うっ…うっ…
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 04b_church, 25, 100, 0>
+
+<ShowPicture: 1, t_sub3a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+いっぱいマーキングされてしまいましたね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+勇者様。私の相手をして頂きありがとうございました♡
+また気が向きましたら、いつでもいらしてくださいね♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+私でよければ精一杯おもてなしさせて頂きますね♡
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+ねーねー！もも、2人のエッチ見てたら乳首勃起してきちゃったぁ♡
+オタくん♡早くホテル行ってもも達とエッチしよ♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+そうだぞ～ウチらの相手もちゃんとしろよな～
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっ…そうだね…私達もさっきのサキュバスとの戦いで魔力消耗
+してるから、早く宿に行ってオタくんに魔力注いで貰わないとね
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+本当にそれが理由なのか～あおい？
+本当はオタくんとエッチしたいだけなんじゃないのか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+そっ…それもあるけどさ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+じゃあ、あおいはオタくんが出した精液を後で
+飲むだけでいいんだな？
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+やっ…それはやだ！私もオタくんとエッチしたいだけだよ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+やっぱな、あんなちんぽ見せられたらそうだよな！
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+もう、早くホテル行こうよぉ♡ねっ！オタくん♡
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+うっ…うん…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+じゃあマリアさん。僕達はホテルに行って来ます。
+また明日来るので、その時にもう一度お話ししましょう。
+
+<ShowPicture: 1, t_sub3a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: マリア>
+はい、わかりました。それではお楽しみください。
+
+<CE: 1>
+

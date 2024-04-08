@@ -1,0 +1,56 @@
+<CE: 3>
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+隣街の王女様から勇者様たちのことは伺っております。
+勇者様たちのご活躍はこの街にも届いております。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+この街にもサキュバスが潜んでいる可能性があります。
+ですので勇者様たちに来ていただいて大変心強いです。
+これからよろしくお願い致します。
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: もも>
+へぇ～…もも達の活躍ってそんなに噂になってるんだぁ
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+ウチらってそんな有名人になってたんだね…
+知らなかったぁ～
+
+<WindowPosition: Bottom><Background: Transparent><Name: あおい>
+でもそれはサキュバスにも私たちの存在がバレてるって
+ことなんだよね…それは気をつけないとね…
+
+<ShowPicture: 1, t_full2a, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの、この街で異変などは起きませんでしたか？
+例えば人が誘拐されたり、亡くなられてしまったりとか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+異変…ですか……実はこの街は病弱な方が多くて、
+病死なのかサキュバスによる犯行なのかが分からないんです…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+なるほど…確かにそれはサキュバスにとって都合の良い
+環境になっているのかもしれませんね…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+はい。また、この街は医療が非常に優れているので、
+他の街から療養に来る患者さんが大勢いるんです。
+この街のことは街にいるナースたちの方が詳しいと思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+特にナース長はこの街に詳しいので、
+ナース長に聞くのがよいと思います。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 門番>
+ナース長は街の中央の大きな建物にいるはずです。ご健闘を祈ります。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+ナース長ですね。分かりました！ご説明ありがとうございました！
+
+<CE: 1>

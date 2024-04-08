@@ -1,0 +1,32 @@
+<FadeoutBGM: 4>
+
+<PlayBGM: 002_crysis, 20, 100, 0>
+
+<CE: 3>
+
+<ShowPicture: 1, t_full2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+あら。あなた達が噂の勇者ね。
+部下を何人も配置しておいたのに、
+よくもまぁここまで来れたものね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+やっぱりサキュバスの仕業だったか…
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+あんたがこのカジノをのっとったっていう魔族ね！
+ウチらが来たからにはあんたの悪行もここまでよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+ふぅん…威勢だけはいいようね。まぁ…その威勢が
+どこまで続くか見ものね。
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+今からあなた達をミンチにしてあげるから、覚悟なさい
+
+<CE: 1>
+
+<PlayBGM: 001_battle, 20, 100, 0>
+
+

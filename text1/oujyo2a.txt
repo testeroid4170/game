@@ -1,0 +1,77 @@
+<CE: 3>
+
+<ShowPicture: 1, t_aoi2a, Scale[100][100]>
+
+<ShowPicture: 2, t_sub2d, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+あの…王女様！大事な話があります！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+大事な話ですか？なんでしょう？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+実はこういう事件があって………
+(僕達はこの街で起きた事件について話した)
+
+<ShowPicture: 2, t_sub2e, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+……なるほど…そんな大変な事件があったのですね…
+私はそんな事件知りませんでした…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+(やっぱり…王女様は知らなかったんだ)
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+それで、その時に相談した騎士が
+サキュバスだったんじゃないかって思ったんです！
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+なるほど…確かにそれは怪しいですね。
+…その騎士が誰か分かりますか？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 僕>
+はい。それは王女様の直属の騎士だそうです。
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+私の直属の騎士ですか！？…じゃあ…
+
+<FadeoutBGM: 4>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 騎士>
+ふふふ…バレてしまったようね……
+
+<PlayBGM: 002_crysis, 25, 100, 0>
+
+<ShowPicture: 1, t_sv2f, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ルナール！？あなた！？
+
+<WindowPosition: Bottom><Background: Transparent><Name: 騎士>
+えぇ…私がサキュバスだったのよ？…気づかなかったでしょ？
+でも、まさかあの女が勇者にこの事件を話すとは思わなかったわ…
+
+<WindowPosition: Bottom><Background: Transparent><Name: 王女>
+ルナール…あなたがサキュバスだなんて…そんな…
+
+<WindowPosition: Bottom><Background: Transparent><Name: サキュバス>
+まぁ、いいわ…今からここにいる奴らを消して、
+作戦を続行するだけだから…
+
+<ShowPicture: 1, t_sv2d, Scale[100][100]>
+
+<ShowPicture: 2, t_ririka2b, Scale[100][100]>
+
+<WindowPosition: Bottom><Background: Transparent><Name: りりか>
+みんな！あのサキュバスやっつけるよ！
+
+<WindowPosition: Bottom><Background: Transparent><Name: みんな>
+うん！
+
+<CE: 1>
+
+<FadeoutBGM: 4>
+
+<PlayBGM: 001_battle, 25, 100, 0>
